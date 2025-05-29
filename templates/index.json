@@ -15,20 +15,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Your glow-up starts here."
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "The Glow Up Pack",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>We’re here to help you shine—literally. Discover our curated beauty bundles featuring top-rated products from Patrick Ta. Whether you’re getting ready for a night out or elevating your everyday look, our glow kits are designed to give you radiant, confident skin. ✨</p><p>Enjoy free shipping, exclusive offers, and join 1,000+ happy customers who’ve already found their perfect glow.</p>"
           }
         }
       },
@@ -376,6 +376,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-05-29_at_10.10.28_PM.jpg",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
