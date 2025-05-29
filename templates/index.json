@@ -494,11 +494,12 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "logo": "shopify://shop_images/images_1.jpg",
+            "logo_width": 50,
+            "author": "Jessica M",
+            "content": "This glow kit is a game-changer! My skin has never looked so radiant—I'm obsessed!",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
