@@ -630,10 +630,11 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imagdes.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Good Results",
+            "content": "<p>you looks like a rich lady by 60 sec</p>",
             "button_url": "",
             "button_text": ""
           }
