@@ -512,11 +512,23 @@
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_7pBpPK": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/R_1.jpg",
+            "logo_width": 50,
+            "author": "Lauren Burnham",
+            "content": "Lightweight, dewy, and natural. It's my go-to kit for everyday and events.",
+            "show_rating": true,
+            "rating": 5
+          }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_7pBpPK"
       ],
       "settings": {
         "full_width": true,
