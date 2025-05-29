@@ -17,20 +17,44 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Free Shipping",
+            "url": ""
+          }
+        },
+        "message_EFFbkB": {
+          "type": "message",
+          "settings": {
+            "text": "Ships Today",
+            "url": ""
+          }
+        },
+        "message_UzNHRc": {
+          "type": "message",
+          "settings": {
+            "text": "Limited Offer",
+            "url": ""
+          }
+        },
+        "message_xHaQrU": {
+          "type": "message",
+          "settings": {
+            "text": "Fast Delivery",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_EFFbkB",
+        "message_UzNHRc",
+        "message_xHaQrU"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#7c0043",
+        "background": "#700046",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
