@@ -505,11 +505,12 @@
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "logo": "shopify://shop_images/images_2.jpg",
+            "logo_width": 50,
+            "author": "alyssa rachelle",
+            "content": "The blush melts into my skin and the body oil smells heavenly. I’ve gotten so many compliments!",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
