@@ -355,7 +355,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/a7941bcb02ada2daffdad31f203cbac9.jpg",
-            "title": "A luxurious body oil that gives a shimmering, hydrated glow—ideal for the body, shoulders, and décolletage. Smells amazing and leaves the skin soft and radiant.",
+            "title": "",
             "heading_tag": "h6",
             "link_url": "",
             "link_text": "",
@@ -377,7 +377,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/patrick-ta-major-glow-highlighter-my-love-baby-sugar-v0-43747cqyuf7d1.webp",
-            "title": "Dewy cream highlighter for a natural, lit-from-within glow—no glitter, just radiance.",
+            "title": "",
             "heading_tag": "h6",
             "link_url": "",
             "link_text": "",
@@ -398,8 +398,9 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/images_6.jpg",
+            "title": "",
+            "heading_tag": "h6",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
@@ -419,7 +420,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/ChatGPT_Image_May_29_2025_10_17_29_PM.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
