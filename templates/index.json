@@ -618,10 +618,11 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/images_9.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Instant Glow",
+            "content": "<p>Radiant Bronze in a Flash – Beauty That Moves With You</p>",
             "button_url": "",
             "button_text": ""
           }
