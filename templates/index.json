@@ -56,7 +56,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "content": "<p>Showcase the power of our glow kit with real results. Swipe to compare <strong>before and after</strong>—and discover the radiant difference.</p>",
         "before_image": "shopify://shop_images/befor.jpg",
         "after_image": "shopify://shop_images/after.jpg",
         "expand_image": false,
