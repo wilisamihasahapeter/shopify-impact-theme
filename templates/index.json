@@ -354,6 +354,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_May_29_2025_10_17_29_PM.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
