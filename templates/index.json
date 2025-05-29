@@ -97,6 +97,7 @@
         "slide-1",
         "slide-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -901,15 +902,15 @@
   },
   "order": [
     "image-with-text-overlay",
+    "before-after-image",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
     "scrolling_text_GftD49",
     "collection-list",
     "featured-collection",
-    "impact-text",
     "media-grid",
-    "before-after-image",
+    "impact-text",
     "press",
     "hot-spots",
     "multiple-images-with-text",
