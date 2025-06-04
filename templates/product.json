@@ -342,7 +342,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/2711687-02-removebg-preview.png",
-            "mobile_icon_width": 120,
+            "mobile_icon_width": 72,
             "icon_width": 120,
             "icon_background_type": "none",
             "icon_background": "",
