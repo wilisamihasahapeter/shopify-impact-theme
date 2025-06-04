@@ -581,7 +581,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images-removebg-preview.png",
-            "mobile_icon_width": 52,
+            "mobile_icon_width": 76,
             "icon_width": 52,
             "icon_background_type": "none",
             "icon_background": "#ffffff",
