@@ -299,6 +299,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/images__4_-removebg-preview.png",
             "mobile_icon_width": 72,
             "icon_width": 100,
             "icon_background_type": "none",
@@ -310,6 +311,7 @@
         },
         "item_nzjUpr": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 72,
@@ -325,6 +327,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/images__3_-removebg-preview.png",
             "mobile_icon_width": 72,
             "icon_width": 100,
             "icon_background_type": "none",
@@ -339,7 +342,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/2711687-02-removebg-preview.png",
-            "mobile_icon_width": 76,
+            "mobile_icon_width": 72,
             "icon_width": 100,
             "icon_background_type": "none",
             "icon_background": "",
