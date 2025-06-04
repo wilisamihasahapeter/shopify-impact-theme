@@ -45,6 +45,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_zC4Wh3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .benefit {\n    font-size: 14px;\n    line-height: 1.2;\n    display: flex;\n    align-items: center;\n    margin-bottom: 8px;\n  }\n  .icon {\n    margin-right: 8px;\n    width: 20px;\n    height: 20px;\n  }\n</style>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Without streaks or orange tones.\n</p>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  3-step routine: prep, bronze, and seal your glow in under 60 seconds.\n</p>\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  All-in-one bundle with FREE body brush\n</p>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -100,6 +106,7 @@
         "liquid_dJk7tx",
         "badges",
         "price",
+        "liquid_zC4Wh3",
         "rating",
         "payment_terms",
         "separator",
