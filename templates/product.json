@@ -196,10 +196,30 @@
         },
         "item_jGfXVm": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "title": "How Long Does One Bundle Last?",
             "content": "<p>With regular use, your <strong>Glow Up Kit</strong> typically lasts <strong>6 to 8 weeks</strong>.<br/><br/>Here’s a quick breakdown:</p><p><br/> Approx. 30–40 full-body uses<br/></p><p><br/> Lasts 1–2 months with daily application<br/></p><p><br/> Can last 2–3 months thanks to its highly pigmented formula</p>"
+          }
+        },
+        "item_pyFerN": {
+          "type": "item",
+          "settings": {
+            "title": "Is this bundle suitable for sensitive skin?",
+            "content": "<p>Absolutely. All products are formulated with skin-friendly ingredients and are free from harsh additives. However, we always recommend a patch test for very sensitive skin.</p>"
+          }
+        },
+        "item_7jEdDw": {
+          "type": "item",
+          "settings": {
+            "title": "Do you offer refunds or exchanges?",
+            "content": "<p>We offer hassle-free returns within 14 days of delivery. Just contact our support team and we’ll take care of the rest.</p>"
+          }
+        },
+        "item_3P8x7F": {
+          "type": "item",
+          "settings": {
+            "title": "How long does shipping take?",
+            "content": "<p>Standard shipping typically takes <strong>7-15 business days</strong> within the U.S. You’ll receive tracking info as soon as your order ships.</p>"
           }
         }
       },
@@ -207,7 +227,10 @@
         "item_qqFpLb",
         "item_ENcA6M",
         "item_6tH98N",
-        "item_jGfXVm"
+        "item_jGfXVm",
+        "item_pyFerN",
+        "item_7jEdDw",
+        "item_3P8x7F"
       ],
       "name": "Accordion content",
       "settings": {
