@@ -252,6 +252,32 @@
         "accordion_text_color": ""
       }
     },
+    "rich_text_NxLPxK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CETHnc": {
+          "type": "heading",
+          "settings": {
+            "text": "What You Get for $39",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CETHnc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text_with_icons_GCUrPt": {
       "type": "text-with-icons",
       "blocks": {
@@ -738,6 +764,7 @@
     "main",
     "related-products",
     "accordion_content_wkVpfD",
+    "rich_text_NxLPxK",
     "text_with_icons_GCUrPt",
     "rich_text_yngY3y",
     "video_DgWLNf",
