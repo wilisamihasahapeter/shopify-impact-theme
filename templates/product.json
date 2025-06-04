@@ -378,14 +378,14 @@
         "subheading_7wCnWX": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Your Complete Glow Routine — All in One Bundle"
           }
         },
         "heading_L43i9t": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Hydrate. Highlight. Glow. In Under 60 Seconds.",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -393,7 +393,7 @@
         "richtext_CQgEhA": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Why spend over $100 on individual products when you can get a full, layered glow routine in one expertly curated set?</p><p>The <strong>Glow Up Kit</strong> includes a luxe shimmer <strong>body oil</strong>, creamy <strong>highlighter</strong>, radiant <strong>blush duo</strong>, and a <strong>FREE body brush</strong> for flawless, mess-free application.</p><p>No patchiness. No overhyped dupes. No complicated steps.<br/><br/>Just smooth, radiant, camera-ready skin—for under $40.</p>"
           }
         }
       },
@@ -406,7 +406,7 @@
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "center",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -582,7 +582,7 @@
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images-removebg-preview.png",
             "mobile_icon_width": 76,
-            "icon_width": 52,
+            "icon_width": 76,
             "icon_background_type": "none",
             "icon_background": "#ffffff",
             "icon_color": "",
@@ -616,7 +616,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Satisfaction Guarantee",
             "content": "",
             "button_text": "",
             "button_url": "",
