@@ -326,6 +326,7 @@
         },
         "item_cBJmHU": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images__3_-removebg-preview.png",
@@ -340,6 +341,7 @@
         },
         "item_mnkPWh": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/2711687-02-removebg-preview.png",
@@ -379,13 +381,13 @@
         "subheading_7wCnWX": {
           "type": "subheading",
           "settings": {
-            "text": "Your Complete Glow Routine — All in One Bundle"
+            "text": "Summer Style Deal – Just $19!"
           }
         },
         "heading_L43i9t": {
           "type": "heading",
           "settings": {
-            "text": "Hydrate. Highlight. Glow. In Under 60 Seconds.",
+            "text": "Buy the Chic Miami Sandal & Get a Free Kadee II Flip",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -394,7 +396,7 @@
         "richtext_CQgEhA": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Why spend over $100 on individual products when you can get a full, layered glow routine in one expertly curated set?</p><p>The <strong>Glow Up Kit</strong> includes a luxe shimmer <strong>body oil</strong>, creamy <strong>highlighter</strong>, radiant <strong>blush duo</strong>, and a <strong>FREE body brush</strong> for flawless, mess-free application.</p><p>No patchiness. No overhyped dupes. No complicated steps.<br/><br/>Just smooth, radiant, camera-ready skin—for under $40.</p>"
+            "content": "<p>Step into the season with the Amelza Women's Miami Toe Loop Sandal — a chic, minimalist sandal designed to elevate any summer outfit. With sleek straps, a stylish toe loop, and a modern square-toe shape, this sandal is perfect for both casual and dressy occasions.</p><p><strong>All-Day Cushioning & Flexibility</strong><br/><br/>Crafted with soft, flexible TPU uppers and a drop-in Croslite™ footbed, the Miami Sandal offers lightweight support that feels broken-in from the very first wear. It's your go-to choice for sunny strolls, brunch dates, or beachside evenings.</p><p><strong>Limited-Time Bonus Offer</strong><br/><br/>As a special offer, every purchase includes a <strong>FREE pair of Amelza Women's Kadee II Flip-Flops</strong> — a comfortable, everyday flip that pairs effortlessly with your summer wardrobe. Two stylish essentials for just <strong>$19</strong>.</p><p><strong>Exclusive to Amelza</strong><br/><br/>Don’t miss this unbeatable value. Fashion-forward, comfortable, and wallet-friendly — only at <strong>Amelza</strong>, where summer style starts.</p>"
           }
         }
       },
@@ -512,13 +514,13 @@
         "subheading_kXaj4K": {
           "type": "subheading",
           "settings": {
-            "text": "Skip the $100 Glow Routine"
+            "text": "Summer Duo Deal – Style That Shines for Just $19"
           }
         },
         "heading_9RiyJe": {
           "type": "heading",
           "settings": {
-            "text": "What’s Inside the Bundle",
+            "text": "Get the Look You Love + a Bonus Pair, Only at Amelza",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -527,7 +529,7 @@
         "richtext_dbgcee": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Most glow kits on the market can cost over <strong>$100</strong>—and often include products you’ll rarely use. From overpriced highlighters to bulky body oils, you're paying for hype, not results.</p><p>At <strong>Amelza</strong>, we’ve done the work for you.<br/><br/>This <strong>$39 bundle</strong> delivers the same high-end glow, using <strong>three must-have products</strong> trusted by beauty influencers and pro artists.</p><p>✨ Same glow. Less waste. Way more value.</p>"
+            "content": "<p><strong>Chic, Strappy, and Made for Summer</strong><br/><br/>Turn heads in the Amelza Women's Miami Toe Loop Sandal — designed with minimalist straps, a trendy toe loop, and a bold square-toe silhouette. It’s the ultimate sandal for warm-weather fashion, offering a flattering fit and effortless style.</p><p><strong>Comfort That Goes All Day</strong><br/><br/>With soft, flexible TPU uppers and a cushioned Croslite™ footbed, the Miami sandal feels as good as it looks. Whether you're heading to brunch, the beach, or a night out, this pair is built for comfort and versatility.</p><p><strong>Bonus Pair Included – Free Kadee II Flip</strong><br/><br/>Shop now and receive a <strong>FREE Amelza Women’s Kadee II Flip-Flop</strong> with your Miami Sandal. Lightweight, supportive, and perfect for everyday wear — it’s the bonus your summer wardrobe needs.</p><p><strong>Exclusively at Amelza</strong><br/><br/>Two stylish pairs, one amazing price. Get the complete summer set for just <strong>$19</strong>, available only at <strong>Amelza</strong> — where comfort meets confidence.</p>"
           }
         }
       },
@@ -553,42 +555,42 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images-removebg-preview.png",
+            "custom_icon": "shopify://shop_images/crocs_27.jpg",
             "mobile_icon_width": 76,
             "icon_width": 76,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Radiant Results",
-            "content": "<p>Glow instantly with products designed to enhance every skin tone.</p>"
+            "title": "Strappy, Stylish, and Ready for Summer",
+            "content": "<p>The Amelza Women's Miami Toe Loop Sandal brings modern minimalism and all-day comfort to every step.</p>"
           }
         },
         "item_LQcd3U": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images-removebg-preview.png",
+            "custom_icon": "shopify://shop_images/crocs_27.jpg",
             "mobile_icon_width": 76,
             "icon_width": 76,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Clean & Lightweight",
-            "content": "<p>Non-sticky, breathable formulas perfect for daily wear.</p>"
+            "title": "Meet Your New Favorite Summer Sandal",
+            "content": "<p>With sleek straps, a bold toe loop, and a cushioned footbed, this sandal is equal parts chic and comfortable.</p>"
           }
         },
         "item_RAF4WT": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images-removebg-preview.png",
+            "custom_icon": "shopify://shop_images/crocs_17.jpg",
             "mobile_icon_width": 76,
             "icon_width": 76,
             "icon_background_type": "none",
             "icon_background": "#ffffff",
             "icon_color": "",
-            "title": "Pro-Approved, Beginner-Friendly",
-            "content": "<p>Loved by beauty creators, easy enough for everyday users.</p>"
+            "title": "Less Is More – Miami Knows It",
+            "content": "<p>Minimalist design, vibrant energy, and a flattering fit make this the go-to sandal of the season.</p>"
           }
         }
       },
@@ -621,7 +623,7 @@
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         }
@@ -666,9 +668,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Modern Minimalist Design",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Sleek straps and a trendy toe loop create a bold yet effortless look perfect for any summer outfit.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -678,9 +680,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "All-Day Comfort",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>Made with soft, flexible TPU uppers and a drop-in Croslite™ footbed that cushions your every step.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -690,9 +692,21 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Trendy Square-Toe Shape",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>A fashionable twist on a classic, the square-toe adds a contemporary edge to your warm-weather style.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GnJ7yP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Lightweight & Versatile",
+            "heading_tag": "h4",
+            "content": "<p>Easy to slip on and off, this sandal transitions seamlessly from daytime outings to evening plans.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -702,7 +716,8 @@
       "block_order": [
         "item_wKbnUG",
         "item_8cqJyc",
-        "item_7LxQ4d"
+        "item_7LxQ4d",
+        "item_GnJ7yP"
       ],
       "name": "Multi-column",
       "settings": {
@@ -712,7 +727,7 @@
         "text_alignment": "start",
         "subheading": "About",
         "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "content": "<p>Discover what makes the Amelza Women's Miami Toe Loop Sandal a must-have this season — a perfect blend of style, comfort, and everyday versatility.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
