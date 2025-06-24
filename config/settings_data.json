@@ -16,7 +16,7 @@
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
     "background": "#fff1f7",
-    "text_color": "#af0f82",
+    "text_color": "#000000",
     "success_color": "#00a86b",
     "error_color": "#f44336",
     "header_background": "#e44cb0",
