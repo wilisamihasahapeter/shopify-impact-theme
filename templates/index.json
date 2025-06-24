@@ -42,7 +42,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/506cad1a5c2b39f31fdb40fbf5b7f193.jpg",
+        "image": "shopify://shop_images/0f7bf570bc4eba97b9252635ca165727.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -381,7 +381,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/28deadce4578d95ce4947689763f1a79.jpg",
+            "image": "shopify://shop_images/89b5806183791f2ccac7d3292fae5294.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
@@ -403,7 +403,7 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/images_7.jpg",
+            "image": "shopify://shop_images/c6172f7e0467b6753460ee622ab42d7c.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
@@ -425,7 +425,7 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/images_6.jpg",
+            "image": "shopify://shop_images/28deadce4578d95ce4947689763f1a79.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
@@ -447,7 +447,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_May_29_2025_10_17_29_PM.png",
+            "image": "shopify://shop_images/506cad1a5c2b39f31fdb40fbf5b7f193.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
