@@ -42,7 +42,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/c6172f7e0467b6753460ee622ab42d7c.jpg",
+        "image": "shopify://shop_images/506cad1a5c2b39f31fdb40fbf5b7f193.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -381,7 +381,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a7941bcb02ada2daffdad31f203cbac9.jpg",
+            "image": "shopify://shop_images/28deadce4578d95ce4947689763f1a79.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
