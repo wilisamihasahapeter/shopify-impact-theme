@@ -185,43 +185,36 @@
         "item_qqFpLb": {
           "type": "item",
           "settings": {
-            "title": "What’s Inside",
-            "content": "<p>This formula combines moisturizing agents like castor oil, jojoba oil, and shea butter esters with texture enhancers such as rice bran wax and microcrystalline wax. Mica and iron oxides add color and shimmer, while citric acid balances pH. Fragrance components, including linalool and limonene, provide a subtle scent.</p>"
+            "title": "What makes the Miami Toe Loop Sandal stand out from other summer sandals?",
+            "content": "<p>Its sleek, minimalist design with strappy details and a bold toe loop makes it effortlessly chic and perfect for both day and night. It’s stylish, comfortable, and full of youthful energy.</p>"
           }
         },
         "item_ENcA6M": {
           "type": "item",
           "settings": {
-            "title": "How to Use the Glow Up Kit",
-            "content": "<p><strong>Step 1: Apply the Body Oil</strong><br/><br/>Gently massage the <strong>Major Glow Body Oil</strong> onto clean, dry skin—focus on shoulders, arms, and décolletage for an all-over glow.</p><p><strong>Step 2: Highlight with the Balm</strong><br/><br/>Use your fingertips or a brush to dab the <strong>Crème Highlighting Balm</strong> onto cheekbones, brow bones, and the bridge of your nose. Blend for a dewy, natural finish.</p><p><strong>Step 3: Add a Flush of Color</strong><br/><br/>Apply the <strong>Crème & Powder Blush Duo</strong>—start with the cream base, then layer the powder on top for a radiant, long-lasting blush.</p>"
+            "title": "Is the sandal comfortable for all-day wear?",
+            "content": "<p>Yes! The soft, flexible TPU uppers feel broken-in from the first wear, and the drop-in Croslite™ footbed provides all-day support and cushioning.</p>"
           }
         },
         "item_6tH98N": {
           "type": "item",
           "settings": {
-            "title": "Will This Work on My Skin Tone?",
-            "content": "<p>Absolutely! The <strong>Glow Up Kit</strong> is designed to complement <strong>all skin tones</strong>. Each product features <strong>buildable, blendable formulas</strong> that enhance your natural radiance—whether your skin is fair, deep, or anywhere in between.</p><p>The blush duo in <strong>“She’s That Girl”</strong> has been chosen for its universally flattering rosy tone, while the highlighter and body oil add a warm, golden glow that looks stunning on every complexion.</p><p>💬 Still unsure? Send us a quick message—we’re happy to help you glow with confidence!</p>"
+            "title": "What style elements define the Miami Toe Loop Sandal?",
+            "content": "<p>Vibrant colors, a trendy square-toe shape, and sleek strappy details create a look that’s both fashion-forward and fun.</p>"
           }
         },
         "item_jGfXVm": {
           "type": "item",
           "settings": {
-            "title": "How Long Does One Bundle Last?",
-            "content": "<p>With regular use, your <strong>Glow Up Kit</strong> typically lasts <strong>6 to 8 weeks</strong>.<br/><br/>Here’s a quick breakdown:</p><p><br/> Approx. 30–40 full-body uses<br/></p><p><br/> Lasts 1–2 months with daily application<br/></p><p><br/> Can last 2–3 months thanks to its highly pigmented formula</p>"
+            "title": "Will the straps cause discomfort or rubbing?",
+            "content": "<p>Not at all — the TPU uppers are soft and flexible, designed to move with your foot for a comfortable fit right out of the box.</p>"
           }
         },
         "item_pyFerN": {
           "type": "item",
           "settings": {
-            "title": "Is this bundle suitable for sensitive skin?",
-            "content": "<p>Absolutely. All products are formulated with skin-friendly ingredients and are free from harsh additives. However, we always recommend a patch test for very sensitive skin.</p>"
-          }
-        },
-        "item_7jEdDw": {
-          "type": "item",
-          "settings": {
-            "title": "Do you offer refunds or exchanges?",
-            "content": "<p>We offer hassle-free returns within 14 days of delivery. Just contact our support team and we’ll take care of the rest.</p>"
+            "title": "What should I know about wear and tear?",
+            "content": "<p>Like most smooth materials, the upper may show minor scuffing with regular use, which is completely normal.</p>"
           }
         },
         "item_3P8x7F": {
@@ -238,7 +231,6 @@
         "item_6tH98N",
         "item_jGfXVm",
         "item_pyFerN",
-        "item_7jEdDw",
         "item_3P8x7F"
       ],
       "name": "Accordion content",
