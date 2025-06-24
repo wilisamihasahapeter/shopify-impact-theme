@@ -83,6 +83,12 @@
           "disabled": true,
           "settings": {}
         },
+        "liquid_eUH8nJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- START KiwiSizing code !-->\n  <div id=\"KiwiSizingChart\" \n    data-sizing-id=\"64682118\"\n    data-display-mode=\"2\"\n    data-recommender-display-mode=\"0\"\n    data-layout-type=\"0\">\n  </div>\n<!-- END KiwiSizing code !-->"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -124,6 +130,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "liquid_eUH8nJ",
         "buy_buttons",
         "liquid_wq37a9",
         "liquid_J3JBVq",
