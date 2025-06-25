@@ -104,6 +104,38 @@
         "product_card_text_color": ""
       }
     },
+    "video_XpNbz3": {
+      "type": "video",
+      "blocks": {
+        "play_b698y9": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_8jgLzC": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_b698y9",
+        "heading_8jgLzC"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/ssstik.io_@lifesrad_1750823630847.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 11
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -955,6 +987,7 @@
     "image-with-text-overlay",
     "before-after-image",
     "featured_collection_8zMHkn",
+    "video_XpNbz3",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
