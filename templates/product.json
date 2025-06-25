@@ -186,43 +186,36 @@
         "item_qqFpLb": {
           "type": "item",
           "settings": {
-            "title": "What makes the Miami Toe Loop Sandal stand out from other summer sandals?",
-            "content": "<p>Its sleek, minimalist design with strappy details and a bold toe loop makes it effortlessly chic and perfect for both day and night. It’s stylish, comfortable, and full of youthful energy.</p>"
+            "title": "Shipping & Returns",
+            "content": "<p>Having second thoughts? Returns can be made within 30 days. <strong>Our returns process is free</strong> (and seamless).</p><p>We offer <strong>FREE Shipping </strong>on all the orders.</p><ul><li><em><strong>Fulfillment time</strong></em><em>: 24 - 48 hrs</em></li><li><em><strong>Shipping time</strong></em><em>: 7 - 15 days</em></li></ul>"
           }
         },
         "item_ENcA6M": {
           "type": "item",
           "settings": {
-            "title": "Is the sandal comfortable for all-day wear?",
-            "content": "<p>Yes! The soft, flexible TPU uppers feel broken-in from the first wear, and the drop-in Croslite™ footbed provides all-day support and cushioning.</p>"
+            "title": "Our Guarantee",
+            "content": "<p>We care about our customers and ensure that every pair of sandals we offer is authentic and of the highest quality.</p><ul><li>Tracking number for every order</li><li>Safe & encrypted payments</li><li>24/7 assistance</li><li>No hidden fees!</li></ul>"
           }
         },
         "item_6tH98N": {
           "type": "item",
           "settings": {
-            "title": "What style elements define the Miami Toe Loop Sandal?",
-            "content": "<p>Vibrant colors, a trendy square-toe shape, and sleek strappy details create a look that’s both fashion-forward and fun.</p>"
+            "title": "Materials & Care",
+            "content": "<p>Materials: Upper: 100% Thermoplastic Polyurethane (TPU). Footbed: 100% Croslite™ (EVA-based foam). Outsole: Croslite™ or TPU. No fabric or textile materials included.<br/><br/><strong>Care</strong></p><ul><li>Machine Wash Cold</li><li>Do Not Bleach</li><li>Tumble Dry Low</li><li>Do Not Iron</li><li>Do Not Dry Clean</li><li>Wash With Like Colors</li></ul>"
           }
         },
         "item_jGfXVm": {
           "type": "item",
           "settings": {
-            "title": "Will the straps cause discomfort or rubbing?",
-            "content": "<p>Not at all — the TPU uppers are soft and flexible, designed to move with your foot for a comfortable fit right out of the box.</p>"
+            "title": "Is this the Real Deal?",
+            "content": "<p>Yes – it’s the same iconic design. These come from surplus or liquidation inventory, so we can offer them at a fraction of the price.<br/></p>"
           }
         },
         "item_pyFerN": {
           "type": "item",
           "settings": {
-            "title": "What should I know about wear and tear?",
-            "content": "<p>Like most smooth materials, the upper may show minor scuffing with regular use, which is completely normal.</p>"
-          }
-        },
-        "item_3P8x7F": {
-          "type": "item",
-          "settings": {
-            "title": "How long does shipping take?",
-            "content": "<p>Standard shipping typically takes <strong>7-15 business days</strong> within the U.S. You’ll receive tracking info as soon as your order ships.</p>"
+            "title": "Why is it $19 instead of $39?",
+            "content": "<p>We buy excess stock that big brands need to move fast. It’s 100% authentic – just not full price anymore.</p>"
           }
         }
       },
@@ -231,8 +224,7 @@
         "item_ENcA6M",
         "item_6tH98N",
         "item_jGfXVm",
-        "item_pyFerN",
-        "item_3P8x7F"
+        "item_pyFerN"
       ],
       "name": "Accordion content",
       "settings": {
