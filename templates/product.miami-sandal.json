@@ -1,0 +1,920 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_xY7Xit": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n:root {\n--social-proof-text-color: #000000;\n--social-proof-star-color: #FF4C01;\n}\n.social-proof-slide__block-rating {\ndisplay: flex;\nalign-items: center;\njustify-content: flex-start;\nfont-size: 13px;\ntext-decoration: none; /* Ensures the link has no underline */\n}\n.social-proof-slide__block-stars {\ndisplay: flex;\nmargin-right: 8px;\n}\n.social-proof-star img {\nwidth: auto; /* Adjust as necessary */\nheight: 14px; /* Adjust as necessary */\n}\n.social-proof-slide__block-rating-text {\ndisplay: inline;\ncolor: var(--social-proof-text-color);\n}\n.bold {\nfont-weight: bold;\n}\n/* Optional: Hover effect for the clickable block */\n.social-proof-slide__block-rating:hover {\ncursor: pointer;\nopacity: 0.8;\n}\n</style>\n<a href=\"#target-section\" class=\"social-proof-slide__block-rating mt-2\">\n<span class=\"social-proof-slide__block-stars\">\n<span class=\"social-proof-star\">\n<img src=\"https://cdn.shopify.com/s/files/1/0660/6012/4325/files/images.png?v=1723880293\" alt=\"stars\">\n</span>\n</span>\n<span class=\"social-proof-slide__block-rating-text\">\n<span class=\"bold\">4.7/5</span> (15,000+ reviews)\n</span>\n</a>"
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "liquid_dJk7tx": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n@keyframes goldShift {\n  0% { background-position: 0% 50%; }\n  50% { background-position: 100% 50%; }\n  100% { background-position: 0% 50%; }\n}\n.award-badge {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background: linear-gradient(90deg, #f8e8c0, #f0d68a, #f8e8c0);\n  background-size: 300% 300%;\n  animation: goldShift 6s ease infinite;\n  border-radius: 1rem;\n  padding: 0.45rem 0.9rem;\n  font-family: inherit;\n  text-align: center;\n  margin: 0 auto;\n  width: 100%;\n  max-width: 100%;\n  color: #3c2f1e;\n}\n.award-badge span {\n  font-size: 0.75rem;\n  font-weight: 400;\n  white-space: nowrap;\n}\n.award-badge strong {\n  display: block;\n  font-weight: 700;\n  font-size: 0.86rem;\n  margin-bottom: 0.1rem;\n}\n</style>\n<div class=\"award-badge\">\n  <strong>🏆 2025 Tiktok Trending Sandals</strong>\n  <span>Soft, flexible, and strappy — the perfect sandal for summer.</span>\n</div>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_zC4Wh3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .benefit {\n    font-size: 14px;\n    line-height: 1.2;\n    display: flex;\n    align-items: center;\n    margin-bottom: 8px;\n  }\n  .icon {\n    margin-right: 8px;\n    width: 20px;\n    height: 20px;\n  }\n</style>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Stylish straps and toe loop.\n</p>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Soft, flexible TPU uppers feel broken-in from day one.\n</p>\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Drop-in Croslite™ footbed and outsole.\n\n</p>\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n Like most smooth material, upper scuffing may occur under normal wear & tear.\n\n</p>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_jeFxKN": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "product": "{{product}}",
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_wq37a9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul class=\"footer__payment-icons h-stack wrap flex flex-wrap justify-center gap-2\"><li class=\"contents\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n</li><li class=\"contents\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n</li><li class=\"contents\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n</li><li class=\"contents\"><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg></li><li class=\"contents\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-shopify_pay\"><title id=\"pi-shopify_pay\">Shop Pay</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\"></path><path d=\"M35.889 0C37.05 0 38 .982 38 2.182v19.636c0 1.2-.95 2.182-2.111 2.182H2.11C.95 24 0 23.018 0 21.818V2.182C0 .982.95 0 2.111 0H35.89z\" fill=\"#5A31F4\"></path><path d=\"M9.35 11.368c-1.017-.223-1.47-.31-1.47-.705 0-.372.306-.558.92-.558.54 0 .934.238 1.225.704a.079.079 0 00.104.03l1.146-.584a.082.082 0 00.032-.114c-.475-.831-1.353-1.286-2.51-1.286-1.52 0-2.464.755-2.464 1.956 0 1.275 1.15 1.597 2.17 1.82 1.02.222 1.474.31 1.474.705 0 .396-.332.582-.993.582-.612 0-1.065-.282-1.34-.83a.08.08 0 00-.107-.035l-1.143.57a.083.083 0 00-.036.111c.454.92 1.384 1.437 2.627 1.437 1.583 0 2.539-.742 2.539-1.98s-1.155-1.598-2.173-1.82v-.003zM15.49 8.855c-.65 0-1.224.232-1.636.646a.04.04 0 01-.069-.03v-2.64a.08.08 0 00-.08-.081H12.27a.08.08 0 00-.08.082v8.194a.08.08 0 00.08.082h1.433a.08.08 0 00.081-.082v-3.594c0-.695.528-1.227 1.239-1.227.71 0 1.226.521 1.226 1.227v3.594a.08.08 0 00.081.082h1.433a.08.08 0 00.081-.082v-3.594c0-1.51-.981-2.577-2.355-2.577zM20.753 8.62c-.778 0-1.507.24-2.03.588a.082.082 0 00-.027.109l.632 1.088a.08.08 0 00.11.03 2.5 2.5 0 011.318-.366c1.25 0 2.17.891 2.17 2.068 0 1.003-.736 1.745-1.669 1.745-.76 0-1.288-.446-1.288-1.077 0-.361.152-.657.548-.866a.08.08 0 00.032-.113l-.596-1.018a.08.08 0 00-.098-.035c-.799.299-1.359 1.018-1.359 1.984 0 1.46 1.152 2.55 2.76 2.55 1.877 0 3.227-1.313 3.227-3.195 0-2.018-1.57-3.492-3.73-3.492zM28.675 8.843c-.724 0-1.373.27-1.845.746-.026.027-.069.007-.069-.029v-.572a.08.08 0 00-.08-.082h-1.397a.08.08 0 00-.08.082v8.182a.08.08 0 00.08.081h1.433a.08.08 0 00.081-.081v-2.683c0-.036.043-.054.069-.03a2.6 2.6 0 001.808.7c1.682 0 2.993-1.373 2.993-3.157s-1.313-3.157-2.993-3.157zm-.271 4.929c-.956 0-1.681-.768-1.681-1.783s.723-1.783 1.681-1.783c.958 0 1.68.755 1.68 1.783 0 1.027-.713 1.783-1.681 1.783h.001z\" fill=\"#fff\"></path></svg>\n</li><li class=\"contents\"><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg></li></ul>"
+          }
+        },
+        "liquid_J3JBVq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <div id=\"checkout-message\"><strong class=\"changing-number\">30</strong> people are checking out right now</div>\n\n<script>\n// Function to generate a random number between min and max (inclusive)\nfunction getRandomNumber(min, max) {\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\n// Function to update the number\nfunction updateNumber() {\n    const numberElement = document.querySelector('.changing-number');\n    if (numberElement) {\n        numberElement.textContent = getRandomNumber(20, 60);\n    }\n}\n\n// Set an interval to update the number every 20 seconds (20000 milliseconds)\nsetInterval(updateNumber, 20000);\n\n// Initial call to display the number immediately\nupdateNumber();\n</script>\n\n<style>\n#checkout-message {\nfont-size: 13px;\ntext-align: center;\nbackground: #D6C6BE;\nborder-radius: 5px;\nwidth: max-content;\nmargin-left: auto;\nmargin-right: auto;\npadding: 2px 24px;\ncolor: #000000;\nline-height: 22px;\n}\n.changing-number{\nfont-size: 14px;\nfont-weight: 800;\n}\n</style>\n          </div>"
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_xY7Xit",
+        "vendor",
+        "title",
+        "liquid_dJk7tx",
+        "badges",
+        "price",
+        "liquid_zC4Wh3",
+        "rating",
+        "payment_terms",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "kiwi_size_chart_recommender_kiwi_sizing_jeFxKN",
+        "buy_buttons",
+        "liquid_wq37a9",
+        "liquid_J3JBVq",
+        "separator"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "accordion_content_wkVpfD": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_qqFpLb": {
+          "type": "item",
+          "settings": {
+            "title": "What makes the Miami Toe Loop Sandal stand out from other summer sandals?",
+            "content": "<p>Its sleek, minimalist design with strappy details and a bold toe loop makes it effortlessly chic and perfect for both day and night. It’s stylish, comfortable, and full of youthful energy.</p>"
+          }
+        },
+        "item_ENcA6M": {
+          "type": "item",
+          "settings": {
+            "title": "Is the sandal comfortable for all-day wear?",
+            "content": "<p>Yes! The soft, flexible TPU uppers feel broken-in from the first wear, and the drop-in Croslite™ footbed provides all-day support and cushioning.</p>"
+          }
+        },
+        "item_6tH98N": {
+          "type": "item",
+          "settings": {
+            "title": "What style elements define the Miami Toe Loop Sandal?",
+            "content": "<p>Vibrant colors, a trendy square-toe shape, and sleek strappy details create a look that’s both fashion-forward and fun.</p>"
+          }
+        },
+        "item_jGfXVm": {
+          "type": "item",
+          "settings": {
+            "title": "Will the straps cause discomfort or rubbing?",
+            "content": "<p>Not at all — the TPU uppers are soft and flexible, designed to move with your foot for a comfortable fit right out of the box.</p>"
+          }
+        },
+        "item_pyFerN": {
+          "type": "item",
+          "settings": {
+            "title": "What should I know about wear and tear?",
+            "content": "<p>Like most smooth materials, the upper may show minor scuffing with regular use, which is completely normal.</p>"
+          }
+        },
+        "item_3P8x7F": {
+          "type": "item",
+          "settings": {
+            "title": "How long does shipping take?",
+            "content": "<p>Standard shipping typically takes <strong>7-15 business days</strong> within the U.S. You’ll receive tracking info as soon as your order ships.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qqFpLb",
+        "item_ENcA6M",
+        "item_6tH98N",
+        "item_jGfXVm",
+        "item_pyFerN",
+        "item_3P8x7F"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "rich_text_NxLPxK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CETHnc": {
+          "type": "heading",
+          "settings": {
+            "text": "What You Get for $19",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CETHnc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_mAdbkD": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_FQ8Ujp": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/crocs_18.jpg",
+            "mobile_icon_width": 72,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Women's Miami Toe Loop Sandal",
+            "content": "<p>The Women's Miami Toe Loop Sandal is soft, flexible, and effortlessly stylish. With sleek straps and a modern square toe, it’s the perfect sandal for sunny days and vibrant nights.</p>"
+          }
+        },
+        "item_BpTM68": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/WhatsApp_Image_2025-06-24_at_10.14.20_PM_3.jpg",
+            "mobile_icon_width": 72,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Women’s Kadee II Flip",
+            "content": "<p>The Women’s Kadee II Flip is lightweight, cushy, and made for everyday comfort. With a sleek, simple design and Croslite™ foam footbed, it’s your go-to flip for warm-weather ease.<br/></p>"
+          }
+        },
+        "item_nzjUpr": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 72,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "item_cBJmHU": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/images__3_-removebg-preview.png",
+            "mobile_icon_width": 72,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Powder Blush Duo",
+            "content": "<p>This two-in-one blush gives you the best of both worlds: a creamy base for a fresh flush and a soft powder to lock in color. The shade “She’s That Girl” is a universally flattering rosy pink that blends beautifully for a radiant, long-lasting glow.</p>"
+          }
+        },
+        "item_mnkPWh": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/2711687-02-removebg-preview.png",
+            "mobile_icon_width": 72,
+            "icon_width": 100,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Luxe Glow Body Brush",
+            "content": "<p>The perfect tool to apply your <strong>Major Glow Body Oil</strong> flawlessly. This soft, dense brush glides over your skin, ensuring an even, streak-free finish with every use. Designed to blend shimmer seamlessly and keep your hands mess-free, it’s the ultimate glow accessory.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_FQ8Ujp",
+        "item_BpTM68",
+        "item_nzjUpr",
+        "item_cBJmHU",
+        "item_mnkPWh"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_yngY3y": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_7wCnWX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Summer Style Deal – Just $19!"
+          }
+        },
+        "heading_L43i9t": {
+          "type": "heading",
+          "settings": {
+            "text": "Buy the Chic Miami Sandal & Get a Free Kadee II Flip",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_CQgEhA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Step into the season with the Amelza Women's Miami Toe Loop Sandal — a chic, minimalist sandal designed to elevate any summer outfit. With sleek straps, a stylish toe loop, and a modern square-toe shape, this sandal is perfect for both casual and dressy occasions.</p><p><strong>All-Day Cushioning & Flexibility</strong><br/><br/>Crafted with soft, flexible TPU uppers and a drop-in Croslite™ footbed, the Miami Sandal offers lightweight support that feels broken-in from the very first wear. It's your go-to choice for sunny strolls, brunch dates, or beachside evenings.</p><p><strong>Limited-Time Bonus Offer</strong><br/><br/>As a special offer, every purchase includes a <strong>FREE pair of Amelza Women's Kadee II Flip-Flops</strong> — a comfortable, everyday flip that pairs effortlessly with your summer wardrobe. Two stylish essentials for just <strong>$19</strong>.</p><p><strong>Exclusive to Amelza</strong><br/><br/>Don’t miss this unbeatable value. Fashion-forward, comfortable, and wallet-friendly — only at <strong>Amelza</strong>, where summer style starts.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_7wCnWX",
+        "heading_L43i9t",
+        "richtext_CQgEhA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_DgWLNf": {
+      "type": "video",
+      "blocks": {
+        "play_XzTRKQ": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_xPcHVb": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_XzTRKQ",
+        "heading_xPcHVb"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/ssstik.io_@jen.fav.finds_1750787836879.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "custom_liquid_kakNBY": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_html_YP739d": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<div id=\"shopify-section-template--25299490603347__trustpilot_9BdT7A\" class=\"shopify-section\">\n\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css\">\n<style data-shopify=\"\">\n\n  \n  .section-template--25299490603347__trustpilot_9BdT7A {\n    border-top: solid #000000 0px;\n    border-bottom: solid #000000 0px;\n    margin-top: 0px;\n    margin-bottom: 0px;\n    overflow: hidden;\n  }\n  \n  .section-template--25299490603347__trustpilot_9BdT7A-settings {\n    margin: 0 auto;\n    padding-top: 45px;\n    padding-bottom: 45px;\n    padding-left: 1.5rem;\n    padding-right: 1.5rem;\n  }\n\n  .testimonials-heading-template--25299490603347__trustpilot_9BdT7A {\n    margin: 0;\n    font-size: 18px;\n    color: #000000;\n    line-height: 130%;\n    text-align: center;\n    text-transform: unset;\n  }\n\n  .testimonials-stars-template--25299490603347__trustpilot_9BdT7A {\n    display: flex;\n    align-items: end;\n    gap: 5px;\n  }\n\n  .testimonials-stars-template--25299490603347__trustpilot_9BdT7A svg,\n  .testimonials-stars-template--25299490603347__trustpilot_9BdT7A img {\n    display: block;\n    width: 24px;\n    height: 24px;\n    object-fit: cover;\n  }\n\n  .testimonials-stars-template--25299490603347__trustpilot_9BdT7A svg {\n    background-color: #00b67a; \n  }\n\n  .testimonials-rating-template--25299490603347__trustpilot_9BdT7A {\n    margin-top: 12px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 5px;\n    flex-wrap: wrap;\n  }\n\n  .testimonials-rating-text-template--25299490603347__trustpilot_9BdT7A,\n  .testimonials-rating-template--25299490603347__trustpilot_9BdT7A span {\n    margin: 0;\n    font-size: 20px;\n    color: #000000;\n    line-height: 130%;\n  }\n\n  .testimonials-rating-template--25299490603347__trustpilot_9BdT7A span {\n    font-size: 25px;\n    font-weight: 700;\n  }\n\n  .testimonials-rating-template--25299490603347__trustpilot_9BdT7A .testimonials-stars-template--25299490603347__trustpilot_9BdT7A {\n    padding-left: 5px;\n  }\n\n  .testimonials-text-template--25299490603347__trustpilot_9BdT7A {\n    margin-top: 12px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    flex-wrap: wrap;\n  }\n\n  .testimonials-text-template--25299490603347__trustpilot_9BdT7A * {\n    margin: 0;\n    font-size: 16px;\n    color: #000000;\n    line-height: 130%;\n    text-transform: unset;\n  }\n\n  .testimonials-text-template--25299490603347__trustpilot_9BdT7A strong {\n    text-decoration: underline;\n  }\n\n  .testimonials-image-template--25299490603347__trustpilot_9BdT7A {\n    width: 100px;\n    height: 32px;\n  }\n\n  .testimonials-image-template--25299490603347__trustpilot_9BdT7A img {\n    display: block;\n    width: 100%;\n    height: 100%;\n    object-fit: contain;\n  }\n\n  .testimonials-slider-wrapper-template--25299490603347__trustpilot_9BdT7A {\n    margin-top: 27px;\n  }\n\n  .testimonials-slider-template--25299490603347__trustpilot_9BdT7A {\n    overflow: visible !important;\n  }\n\n  .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide {\n    opacity: 0.5;\n    transition-duration: 250ms;\n    transition-property: transform, opacity;\n  }\n\n  .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide-active {\n    opacity: 1;\n    transition-duration: 250ms;\n    transition-property: transform, opacity;\n  }\n\n  .testimonials-slide-template--25299490603347__trustpilot_9BdT7A {\n    display: flex !important;\n    flex-direction: column;\n    justify-content: space-between;\n    gap: 12px;\n    padding: 24px 24px;\n    border-radius: 16px;\n    border: 0px solid #000000;\n    background-color: #ffffff;\n    box-sizing: border-box !important; \n    height: auto !important;\n  }\n\n  .testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A .testimonials-stars-template--25299490603347__trustpilot_9BdT7A {\n    justify-content: center;\n  }\n\n  .testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A {\n    margin: 0;\n    margin-top: 12px;\n    font-size: 20px;\n    color: #000000;\n    line-height: 130%;\n    text-align: center;\n    font-weight: 700;\n    text-transform: unset;\n  }\n\n  .testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A {\n    margin: 0;\n    margin-top: 12px;\n    font-size: 14px;\n    color: #000000;\n    line-height: 150%;\n    text-align: center;\n    text-transform: unset;\n  }\n\n  .testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A span:first-child {\n    display: none;\n  }\n\n  .testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A.active {\n    display: none;\n  }\n\n  .testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A {\n    display: none;\n  }\n\n  .testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A.active {\n    display: inline;\n  }\n\n  .testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A {\n    display: block;\n    max-width: fit-content;\n    width: 100%;\n    background-color: transparent;\n    box-shadow: none;\n    border: 0px;\n    font-size: 14px;\n    line-height: 150%;\n    font-weight: 700;\n    margin-top: 10px;\n  }\n\n  .testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A {\n    margin: 0;\n    font-size: 16px;\n    color: #000000;\n    line-height: 130%;\n    text-align: center;\n    text-transform: unset;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A,\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A {\n    position: absolute;\n    z-index: 2;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 50px;\n    height: 50px;\n    border: 0px solid #ffffff;\n    border-radius: 50%;\n    background: #ffffff;\n    align-items: center;\n    justify-content: center;\n    transition: all 0.3s ease 0s;\n    cursor: pointer;\n    -webkit-appearance: none;\n    box-shadow: 0px 0px 10px 0px rgba(0,0,0,.15);\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A {\n    left: 0px !important;\n  }\n\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A {\n    right: 0px !important;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A svg,\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A svg {\n    height: 28px;\n    width: 28px;\n  }\n\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A svg {\n    transform: rotate(180deg);\n    margin-left: 2px;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A svg {\n    margin-left: -2px;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A svg path,\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A svg path {\n    fill: #000000;\n    transition: all 0.3s ease 0s;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A:hover ,\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A:hover {\n    transition: all 0.3s ease 0s;\n    border: 0px solid #ffffff;\n    background: #ffffff;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A:hover svg path,\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A:hover svg path {\n    fill: #000000;\n    transition: all 0.3s ease 0s;\n  }\n\n  .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A.swiper-button-disabled,\n  .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A.swiper-button-disabled {\n    opacity: 0.3;\n  }\n\n  .testimonials-pagination-template--25299490603347__trustpilot_9BdT7A {\n    margin-top: 20px;\n    position: static !important;\n    width: 100%;\n    justify-content: center;\n    align-items: center;\n  }\n\n  .testimonials-pagination-template--25299490603347__trustpilot_9BdT7A .swiper-pagination-bullet {\n    width: 12px;\n    height: 12px;\n    border: 2px solid #000000;\n    background-color: transparent;\n    opacity: 0.6;\n  }\n\n  .testimonials-pagination-template--25299490603347__trustpilot_9BdT7A .swiper-pagination-bullet.swiper-pagination-bullet-active {\n    opacity: 1;\n    background-color: #000000\n  }\n\n  .testimonials-btn-template--25299490603347__trustpilot_9BdT7A {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    max-width: fit-content;\n    margin: 0;\n    margin-top: 12px;\n    font-size: 14px;\n    font-weight: 700;\n    color: #ffffff;\n    line-height: 100%;\n    text-align: center;\n    text-transform: unset;\n    text-decoration: none;\n    padding: 15px 12px;\n    border-radius: 8px;\n    border: 0px solid #000000;\n    background-color: #000000;\n    transition: all 0.25s ease 0s;\n  }\n\n  .testimonials-btn-template--25299490603347__trustpilot_9BdT7A:hover {\n    color: #ffffff;\n    border: 0px solid #000000;\n    background-color: #000000;\n    transition: all 0.25s ease 0s;\n  }\n  \n  @media(min-width: 1024px) {\n\n    .section-template--25299490603347__trustpilot_9BdT7A {\n      margin-top: 0px;\n      margin-bottom: 0px;\n    }\n    \n    .section-template--25299490603347__trustpilot_9BdT7A-settings {\n      padding: 0 5rem;\n      padding-top: 60px;\n      padding-bottom: 60px;\n      padding-left: 5rem;\n      padding-right: 5rem;\n    }\n\n    .testimonials-heading-template--25299490603347__trustpilot_9BdT7A {\n      font-size: 40px;\n    }\n\n    .testimonials-rating-text-template--25299490603347__trustpilot_9BdT7A,\n    .testimonials-rating-template--25299490603347__trustpilot_9BdT7A span {\n      font-size: 24px;\n    }\n\n    .testimonials-rating-template--25299490603347__trustpilot_9BdT7A span {\n      font-size: 30px;\n    }\n\n    .testimonials-stars-template--25299490603347__trustpilot_9BdT7A svg,\n    .testimonials-stars-template--25299490603347__trustpilot_9BdT7A img {\n      width: 28px;\n      height: 28px;\n    }\n\n    .testimonials-text-template--25299490603347__trustpilot_9BdT7A {\n      margin-top: 16px;\n    }\n  \n    .testimonials-text-template--25299490603347__trustpilot_9BdT7A * {\n      font-size: 20px;\n    }\n\n    .testimonials-slider-wrapper-template--25299490603347__trustpilot_9BdT7A {\n      margin-top: 36px;\n      margin-left: auto;\n      margin-right: auto;\n      width: 100%;\n      max-width: 80%;\n    }\n    \n    .testimonials-slide-template--25299490603347__trustpilot_9BdT7A {\n      gap: 16px;\n      padding: 32px 40px;\n    }\n\n    .testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A {\n      margin-top: 16px;\n      font-size: 24px;\n    }\n\n    .testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A {\n      margin-top: 16px;\n      font-size: 14px;\n    }\n\n    .testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A {\n      font-size: 14px;\n    }\n\n    .testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A span:first-child {\n      display: inline;\n    }\n\n    .testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A span:not(:first-child),\n    .testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A button {\n      display: none;\n    }\n\n    .testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A {\n      font-size: 16px;\n    }\n\n    .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A,\n    .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A {\n      width: 50px;\n      height: 50px;\n    }\n\n    .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A {\n      left: -25.0px !important;\n    }\n  \n    .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A {\n      right: -25.0px !important;\n    }\n\n    .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A svg,\n    .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A svg {\n      height: 28px;\n      width: 28px;\n    }\n\n    .testimonials-pagination-template--25299490603347__trustpilot_9BdT7A .swiper-pagination-bullet {\n      width: 12px;\n      height: 12px;\n    }\n\n    .testimonials-btn-template--25299490603347__trustpilot_9BdT7A {\n      margin-top: 16px;\n      padding: 20px 16px;\n      font-size: 16px;\n    }\n  }</style>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <style>\n    .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A,\n    .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A {\n      display: none;\n    }\n  </style>\n\n\n\n  <style>\n    @media(min-width: 1024px) {\n      .testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A,\n      .testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A {\n        display: flex;\n      }\n    }\n  </style>\n\n\n\n  <style>\n    .testimonials-pagination-template--25299490603347__trustpilot_9BdT7A {\n      display: none !important;\n    }\n  </style>\n\n\n\n  <style>\n    @media(min-width: 1024px) {\n      .testimonials-pagination-template--25299490603347__trustpilot_9BdT7A {\n        display: none !important;\n      }\n    }\n  </style>\n\n\n\n  <style>\n    .testimonials-slide-template--25299490603347__trustpilot_9BdT7A {\n      box-shadow: 0px 0px 20px 0px rgba(26,26,26,0.2);\n    }\n  </style>\n\n\n\n  <style>\n    .testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A {\n      margin-left: auto;\n      margin-right: auto;\n    }\n  </style>\n\n\n\n  <style>\n    @media(min-width: 768px) {\n      .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide-visible {\n        opacity: 1;\n        transition-duration: 250ms;\n        transition-property: transform, opacity;\n      }\n\n      .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide-visible.swiper-slide-prev {\n        opacity: 0.5;\n        transition-duration: 250ms;\n        transition-property: transform, opacity;\n      }\n    }\n  </style>\n\n\n\n  <style>\n    @media(min-width: 1024px) {\n      .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide-visible.swiper-slide-prev,\n      .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide-visible.swiper-slide-next {\n        opacity: 1;\n        transition-duration: 250ms;\n        transition-property: transform, opacity;\n      }\n      \n      .testimonials-slide-template--25299490603347__trustpilot_9BdT7A.swiper-slide-visible.swiper-slide-prev {\n        opacity: 1;\n        transition-duration: 250ms;\n        transition-property: transform, opacity;\n      }\n    }\n  </style>\n\n\n\n  <style>\n   .testimonials-btn-template--25299490603347__trustpilot_9BdT7A {\n      margin-left: auto;\n      margin-right: auto;\n    } \n  </style>\n\n\n\n<style>\n  .testimonials-slider-template--25299490603347__trustpilot_9BdT7A.preview {\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    overflow: hidden;\n    gap: 20px;\n  }\n\n  .testimonials-slider-template--25299490603347__trustpilot_9BdT7A.preview .testimonials-slide-template--25299490603347__trustpilot_9BdT7A {\n    width: 100%;\n  }\n\n  .testimonials-slider-template--25299490603347__trustpilot_9BdT7A.preview .testimonials-slide-template--25299490603347__trustpilot_9BdT7A:not(:first-child) {\n    margin-left: 20px;\n  }\n</style>\n\n<div class=\"section-template--25299490603347__trustpilot_9BdT7A testimonials-template--25299490603347__trustpilot_9BdT7A\" style=\"background-color:#ffffff; background-image: ;\">\n    <div class=\"section-template--25299490603347__trustpilot_9BdT7A-settings \">\n      \n        <h2 class=\"testimonials-heading-template--25299490603347__trustpilot_9BdT7A\"> 15,000+ Glowing Reviews Can’t Be Wrong</h2>\n      \n      \n        <div class=\"testimonials-rating-template--25299490603347__trustpilot_9BdT7A\">\n          \n            <p class=\"testimonials-rating-text-template--25299490603347__trustpilot_9BdT7A\">Excellent</p>\n          \n          \n            <span>4.7</span>\n             <p class=\"testimonials-rating-text-template--25299490603347__trustpilot_9BdT7A\"><strong>/ 5</strong></p>\n          \n          \n            <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                \n                  \n                    <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      \n                      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                      <g clip-path=\"url(#clip0_25_4)\">\n                      <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                      </g>\n                      <defs>\n                      <clippath id=\"clip0_25_4\">\n                      <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                      </clippath>\n                      </defs>\n                    </svg>\n                  \n                  \n                    <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      \n                      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                      <g clip-path=\"url(#clip0_25_4)\">\n                      <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                      </g>\n                      <defs>\n                      <clippath id=\"clip0_25_4\">\n                      <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                      </clippath>\n                      </defs>\n                    </svg>\n                  \n                  \n                    <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      \n                      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                      <g clip-path=\"url(#clip0_25_4)\">\n                      <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                      </g>\n                      <defs>\n                      <clippath id=\"clip0_25_4\">\n                      <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                      </clippath>\n                      </defs>\n                    </svg>\n                  \n                  \n                    <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      \n                      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                      <g clip-path=\"url(#clip0_25_4)\">\n                      <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                      </g>\n                      <defs>\n                      <clippath id=\"clip0_25_4\">\n                      <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                      </clippath>\n                      </defs>\n                    </svg>\n                  \n                  \n                    <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      \n                      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                      <g clip-path=\"url(#clip0_25_4)\">\n                      <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                      </g>\n                      <defs>\n                      <clippath id=\"clip0_25_4\">\n                      <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                      </clippath>\n                      </defs>\n                    </svg>\n                  \n                \n            </div>\n          \n        </div>\n      \n      \n        <div class=\"testimonials-text-template--25299490603347__trustpilot_9BdT7A\">\n          <p>based on 15,000+ reviews</p>\n          \n        </div>\n      \n      <div class=\"testimonials-slider-wrapper-template--25299490603347__trustpilot_9BdT7A\">\n        <div class=\"testimonials-slider-template--25299490603347__trustpilot_9BdT7A swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress swiper-backface-hidden\">\n          <div class=\"swiper-wrapper\" id=\"swiper-wrapper-a2a298e572bc1bd1\" aria-live=\"polite\" style=\"transition-duration: 0ms; transform: translate3d(-549.417px, 0px, 0px);\">\n<div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-duplicate\" role=\"group\" aria-label=\"4 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"3\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\"> Everyday Comfort</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>I’ve worn the Miami Toe Loop Sandals nearly every day since I got them. They’re super lightweight, the straps are soft on my skin, and they don’t cause any rubbing or blisters. For the price, the comfort is honestly unbeatable.</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">I’ve worn the Miami Toe Loop Sandals nearly every day since I got them. They’re super...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">I’ve worn the Miami Toe Loop Sandals nearly every day since I got them. They’re super lightweight, the straps are soft on my skin, and they don’t cause any rubbing or blisters. For the price, the comfort is honestly unbeatable.</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Laura N.</p>\n                  \n                </div>\n              </div>\n<div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-duplicate swiper-slide-visible swiper-slide-prev\" role=\"group\" aria-label=\"5 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"4\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">Perfect for Travel and Walks</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>I took these on a trip to Mexico and ended up wearing them more than my sneakers. They packed easily, didn’t take up space, and held up during long walks. The bonus flip-flops were great for the pool too!</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">I took these on a trip to Mexico and ended up wearing them more than my ...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">I took these on a trip to Mexico and ended up wearing them more than my sneakers. They packed easily, didn’t take up space, and held up during long walks. The bonus flip-flops were great for the pool too!</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Rachel S.</p>\n                  \n                </div>\n              </div>\n            \n              <div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-visible swiper-slide-active\" role=\"group\" aria-label=\"1 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"0\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">FIRE!!!!!!</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>I love it. I don't buy sandals because i have wide feet and this are perfect for my wide feet.</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">I love it. I don't buy sandals because i have wide feet and this are perfect for ...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">I love it. I don't buy sandals because i have wide feet and this are perfect for my wide feet.</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">gege</p>\n                  \n                </div>\n              </div>\n            \n              <div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-visible swiper-slide-next\" role=\"group\" aria-label=\"2 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"1\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">Love them!</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>I have a wide food so those over foot strap shoes usually don't fit me but these are perfect! They are so comfy as most flat sandals hurt overtime. Long wearing comfy and I got tons of compliments! Glad I ordered 3 pair when I did</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">I have a wide food so those over foot strap shoes usually don't fit me but these are...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">I have a wide food so those over foot strap shoes usually don't fit me but these are perfect! They are so comfy as most flat sandals hurt overtime. Long wearing comfy and I got tons of compliments! Glad I ordered 3 pair when I did</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Bee</p>\n                  \n                </div>\n              </div>\n            \n              <div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide\" role=\"group\" aria-label=\"3 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"2\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">I would love to buy this product again.</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>Super happy I got this sandal... comfortable and easy to wear. Please continue this style. Definitely keeping this in my summer routine.</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">Super happy I got this sandal... comfortable and easy to wear. Please continue this ...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">Super happy I got this sandal... comfortable and easy to wear. Please continue this style. Definitely keeping this in my summer routine.</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Donia</p>\n                  \n                </div>\n              </div>\n            \n              <div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide\" role=\"group\" aria-label=\"4 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"3\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">Going to buy in more colors!</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>These are so comfortable and cute! True to size, easy to clean. Can wear to the beach or to a casual happy hour / dinner - very versatile!</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">These are so comfortable and cute! True to size, easy to clean. Can wear to the ...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">These are so comfortable and cute! True to size, easy to clean. Can wear to the beach or to a casual happy hour / dinner - very versatile!</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Ashley</p>\n                  \n                </div>\n              </div>\n            \n              <div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-duplicate-prev\" role=\"group\" aria-label=\"5 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"4\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">TikTok Made Me Try It and I’m Glad I Did</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>Saw someone use all 3 on TikTok and wanted to try without spending $100+. This is such a steal. I love the texture</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">Saw someone use all 3 on TikTok and wanted to try without spending $100+. This is such a steal. I...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">Saw someone use all 3 on TikTok and wanted to try without spending $100+. This is such a steal. I love the texture</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Rachel S.</p>\n                  \n                </div>\n              </div>\n            \n          <div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active\" role=\"group\" aria-label=\"1 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"0\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">5. Great Deal with the Free Flip-Flops</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>The Miami Sandals alone are worth the price, but getting the Kadee II Flip-Flops free was such a bonus. They’re perfect for errands or slipping on after a pedicure. Really happy with this offer!</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">The Miami Sandals alone are worth the price, but getting the...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">The Miami Sandals alone are worth the price, but getting the Kadee II Flip-Flops free was such a bonus. They’re perfect for errands or slipping on after a pedicure. Really happy with this offer!</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\">Chloe S.</p>\n                  \n                </div>\n              </div>\n<div class=\"testimonials-slide-template--25299490603347__trustpilot_9BdT7A swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next\" role=\"group\" aria-label=\"2 / 5\" style=\"width: 269.167px; margin-right: 20px;\" data-swiper-slide-index=\"1\">\n                <div class=\"testimonials-slide-top-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <div class=\"testimonials-stars-template--25299490603347__trustpilot_9BdT7A\">\n                        \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                          \n                            <svg width=\"32\" height=\"32\" viewbox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                              \n                              <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n                              <g clip-path=\"url(#clip0_25_4)\">\n                              <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n                              </g>\n                              <defs>\n                              <clippath id=\"clip0_25_4\">\n                              <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n                              </clippath>\n                              </defs>\n                            </svg>\n                          \n                              \n                        \n                    </div>\n                  \n                  \n                    <p class=\"testimonials-slide-heading-template--25299490603347__trustpilot_9BdT7A\">My Go-To Sandal for the Season</p>\n                  \n                  \n                    <p class=\"testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A\">\n                      <span>Whether I’m going to brunch, the farmers market, or a night out, I keep reaching for these. They’re just the right mix of cute and casual. Total win!</span>\n                      <span class=\"testimonials-slide-text-small-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-small\">Whether I’m going to brunch, the farmers market, or a night out...</span>\n                      <span class=\"testimonials-slide-text-big-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-big\">Whether I’m going to brunch, the farmers market, or a night out, I keep reaching for these. They’re just the right mix of cute and casual. Total win!</span>\n                      <button class=\"testimonials-slide-text-btn-template--25299490603347__trustpilot_9BdT7A testimonials-slide-text-btn\">View More</button>\n                    </p>\n                  \n                </div>\n                <div class=\"testimonials-slide-bottom-template--25299490603347__trustpilot_9BdT7A\">\n                  \n                    <p class=\"testimonials-slide-author-date-template--25299490603347__trustpilot_9BdT7A\"> Isabelle T.</p>\n                  \n                </div>\n              </div>\n</div>\n          <div class=\"testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A\" tabindex=\"0\" role=\"button\" aria-label=\"Previous slide\" aria-controls=\"swiper-wrapper-a2a298e572bc1bd1\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><g id=\"Left\"><path d=\"M14,17a1,1,0,0,1-.707-.293l-4-4a1,1,0,0,1,0-1.414l4-4a1,1,0,1,1,1.414,1.414L11.414,12l3.293,3.293A1,1,0,0,1,14,17Z\" style=\"fill:#1c1b1e\"></path></g></svg>\n          </div>\n          <div class=\"testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A\" tabindex=\"0\" role=\"button\" aria-label=\"Next slide\" aria-controls=\"swiper-wrapper-a2a298e572bc1bd1\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><g id=\"Left\"><path d=\"M14,17a1,1,0,0,1-.707-.293l-4-4a1,1,0,0,1,0-1.414l4-4a1,1,0,1,1,1.414,1.414L11.414,12l3.293,3.293A1,1,0,0,1,14,17Z\" style=\"fill:#1c1b1e\"></path></g></svg>\n          </div>\n          <div class=\"testimonials-pagination-template--25299490603347__trustpilot_9BdT7A swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal\">\n<span class=\"swiper-pagination-bullet swiper-pagination-bullet-active\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 1\" aria-current=\"true\"></span><span class=\"swiper-pagination-bullet\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 2\"></span><span class=\"swiper-pagination-bullet\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 3\"></span><span class=\"swiper-pagination-bullet\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 4\"></span><span class=\"swiper-pagination-bullet\" tabindex=\"0\" role=\"button\" aria-label=\"Go to slide 5\"></span>\n</div>\n        <span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span>\n</div>\n      </div>\n      \n    </div>\n</div>\n\n<script src=\"https://cdn.jsdelivr.net/npm/swiper@8.4.7/swiper-bundle.min.js\"></script>\n              \n<script>\n  function initTestimonials8template25299490603347__trustpilot_9BdT7A() {\n    document.querySelector('.testimonials-slider-template--25299490603347__trustpilot_9BdT7A').classList.remove('preview');\n    const slider = new Swiper('.testimonials-slider-template--25299490603347__trustpilot_9BdT7A', {\n      speed: 300,\n      loop: true,\n      watchSlidesProgress: true,\n      navigation: {\n        nextEl: '.testimonials-btn-next-template--25299490603347__trustpilot_9BdT7A',\n        prevEl: '.testimonials-btn-prev-template--25299490603347__trustpilot_9BdT7A'\n      },\n      pagination: {\n        el: '.testimonials-pagination-template--25299490603347__trustpilot_9BdT7A',\n        type: 'bullets',\n        clickable: true\n      },\n      breakpoints: {\n        320: {\n          centeredSlides: true,\n          spaceBetween: 20,\n          slidesPerView: 1.2\n        },\n        768: {\n          centeredSlides: false,\n          spaceBetween: 20,\n          slidesPerView: 2\n        },\n        1024: {\n          centeredSlides: true,\n          spaceBetween: 20,\n          slidesPerView: 3\n        }\n      }\n    })\n    // slider.slidePrev();\n    let texts = document.querySelectorAll('.testimonials-slide-text-template--25299490603347__trustpilot_9BdT7A');\n    texts.forEach(el => {\n      let btn = el.querySelector('.testimonials-slide-text-btn');\n      let small = el.querySelector('.testimonials-slide-text-small');\n      let big = el.querySelector('.testimonials-slide-text-big');\n      btn.addEventListener('click', () => {\n        console.log(btn);\n        if(btn.classList.contains(\"active\")) {\n          small.classList.remove('active');\n          big.classList.remove('active');\n          btn.classList.remove('active');\n          btn.textContent = \"View More\";\n        } else {\n          small.classList.add('active');\n          big.classList.add('active');\n          btn.textContent = \"View Less\";\n          btn.classList.add('active');\n        }\n      })\n    })\n  }\n\n  document.addEventListener('DOMContentLoaded', function() {\n    setTimeout(initTestimonials8template25299490603347__trustpilot_9BdT7A, 500);\n  });\n  \n  if (Shopify.designMode) {\n     document.addEventListener('shopify:section:unload', initTestimonials8template25299490603347__trustpilot_9BdT7A);\n     document.addEventListener('shopify:section:load', initTestimonials8template25299490603347__trustpilot_9BdT7A);\n  }\n  \n</script>\n\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_Wxf6B4": {
+      "type": "video",
+      "blocks": {
+        "play_DBthTn": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_mhaQzN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_DBthTn",
+        "heading_mhaQzN"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/ssstik.io_@xdallas_333_1750787932086 (1).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 28
+      }
+    },
+    "rich_text_tTdjy6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kXaj4K": {
+          "type": "subheading",
+          "settings": {
+            "text": "Summer Duo Deal – Style That Shines for Just $19"
+          }
+        },
+        "heading_9RiyJe": {
+          "type": "heading",
+          "settings": {
+            "text": "Get the Look You Love + a Bonus Pair, Only at Amelza",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_dbgcee": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Chic, Strappy, and Made for Summer</strong><br/><br/>Turn heads in the Amelza Women's Miami Toe Loop Sandal — designed with minimalist straps, a trendy toe loop, and a bold square-toe silhouette. It’s the ultimate sandal for warm-weather fashion, offering a flattering fit and effortless style.</p><p><strong>Comfort That Goes All Day</strong><br/><br/>With soft, flexible TPU uppers and a cushioned Croslite™ footbed, the Miami sandal feels as good as it looks. Whether you're heading to brunch, the beach, or a night out, this pair is built for comfort and versatility.</p><p><strong>Bonus Pair Included – Free Kadee II Flip</strong><br/><br/>Shop now and receive a <strong>FREE Amelza Women’s Kadee II Flip-Flop</strong> with your Miami Sandal. Lightweight, supportive, and perfect for everyday wear — it’s the bonus your summer wardrobe needs.</p><p><strong>Exclusively at Amelza</strong><br/><br/>Two stylish pairs, one amazing price. Get the complete summer set for just <strong>$19</strong>, available only at <strong>Amelza</strong> — where comfort meets confidence.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kXaj4K",
+        "heading_9RiyJe",
+        "richtext_dbgcee"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_Wq9UzH": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_ExF7eq": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/crocs_27.jpg",
+            "mobile_icon_width": 76,
+            "icon_width": 76,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Strappy, Stylish, and Ready for Summer",
+            "content": "<p>The Amelza Women's Miami Toe Loop Sandal brings modern minimalism and all-day comfort to every step.</p>"
+          }
+        },
+        "item_LQcd3U": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/crocs_27.jpg",
+            "mobile_icon_width": 76,
+            "icon_width": 76,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Meet Your New Favorite Summer Sandal",
+            "content": "<p>With sleek straps, a bold toe loop, and a cushioned footbed, this sandal is equal parts chic and comfortable.</p>"
+          }
+        },
+        "item_RAF4WT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/crocs_17.jpg",
+            "mobile_icon_width": 76,
+            "icon_width": 76,
+            "icon_background_type": "none",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Less Is More – Miami Knows It",
+            "content": "<p>Minimalist design, vibrant energy, and a flattering fit make this the go-to sandal of the season.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ExF7eq",
+        "item_LQcd3U",
+        "item_RAF4WT"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "impact_text_PP3dGq": {
+      "type": "impact-text",
+      "blocks": {
+        "item_RNcrbG": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Satisfaction Guarantee",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_RNcrbG"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "custom_liquid_DG9xnw": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section id=\"shopify-section-template--25299490603347__custom_liquid_BYE8aJ\" class=\"shopify-section shopify-section--custom-liquid\"><style>\n  #shopify-section-template--25299490603347__custom_liquid_BYE8aJ {\n    --section-background-hash: 0;\n  }\n\n  #shopify-section-template--25299490603347__custom_liquid_BYE8aJ + * {\n    --previous-section-background-hash: 0;\n  }</style><style>\n    #shopify-section-template--25299490603347__custom_liquid_BYE8aJ {\n      \n      \n    }\n  </style>\n\n  <div class=\"section   section-blends section-full\">\n    <ul class=\"footer__payment-icons h-stack wrap flex flex-wrap justify-center gap-2\"><li class=\"contents\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n</li><li class=\"contents\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n</li><li class=\"contents\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n</li><li class=\"contents\"><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg></li><li class=\"contents\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-shopify_pay\"><title id=\"pi-shopify_pay\">Shop Pay</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\"></path><path d=\"M35.889 0C37.05 0 38 .982 38 2.182v19.636c0 1.2-.95 2.182-2.111 2.182H2.11C.95 24 0 23.018 0 21.818V2.182C0 .982.95 0 2.111 0H35.89z\" fill=\"#5A31F4\"></path><path d=\"M9.35 11.368c-1.017-.223-1.47-.31-1.47-.705 0-.372.306-.558.92-.558.54 0 .934.238 1.225.704a.079.079 0 00.104.03l1.146-.584a.082.082 0 00.032-.114c-.475-.831-1.353-1.286-2.51-1.286-1.52 0-2.464.755-2.464 1.956 0 1.275 1.15 1.597 2.17 1.82 1.02.222 1.474.31 1.474.705 0 .396-.332.582-.993.582-.612 0-1.065-.282-1.34-.83a.08.08 0 00-.107-.035l-1.143.57a.083.083 0 00-.036.111c.454.92 1.384 1.437 2.627 1.437 1.583 0 2.539-.742 2.539-1.98s-1.155-1.598-2.173-1.82v-.003zM15.49 8.855c-.65 0-1.224.232-1.636.646a.04.04 0 01-.069-.03v-2.64a.08.08 0 00-.08-.081H12.27a.08.08 0 00-.08.082v8.194a.08.08 0 00.08.082h1.433a.08.08 0 00.081-.082v-3.594c0-.695.528-1.227 1.239-1.227.71 0 1.226.521 1.226 1.227v3.594a.08.08 0 00.081.082h1.433a.08.08 0 00.081-.082v-3.594c0-1.51-.981-2.577-2.355-2.577zM20.753 8.62c-.778 0-1.507.24-2.03.588a.082.082 0 00-.027.109l.632 1.088a.08.08 0 00.11.03 2.5 2.5 0 011.318-.366c1.25 0 2.17.891 2.17 2.068 0 1.003-.736 1.745-1.669 1.745-.76 0-1.288-.446-1.288-1.077 0-.361.152-.657.548-.866a.08.08 0 00.032-.113l-.596-1.018a.08.08 0 00-.098-.035c-.799.299-1.359 1.018-1.359 1.984 0 1.46 1.152 2.55 2.76 2.55 1.877 0 3.227-1.313 3.227-3.195 0-2.018-1.57-3.492-3.73-3.492zM28.675 8.843c-.724 0-1.373.27-1.845.746-.026.027-.069.007-.069-.029v-.572a.08.08 0 00-.08-.082h-1.397a.08.08 0 00-.08.082v8.182a.08.08 0 00.08.081h1.433a.08.08 0 00.081-.081v-2.683c0-.036.043-.054.069-.03a2.6 2.6 0 001.808.7c1.682 0 2.993-1.373 2.993-3.157s-1.313-3.157-2.993-3.157zm-.271 4.929c-.956 0-1.681-.768-1.681-1.783s.723-1.783 1.681-1.783c.958 0 1.68.755 1.68 1.783 0 1.027-.713 1.783-1.681 1.783h.001z\" fill=\"#fff\"></path></svg>\n</li><li class=\"contents\"><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg></li></ul>\n  </div>\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_qHtC47": {
+      "type": "multi-column",
+      "blocks": {
+        "item_wKbnUG": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Modern Minimalist Design",
+            "heading_tag": "h4",
+            "content": "<p>Sleek straps and a trendy toe loop create a bold yet effortless look perfect for any summer outfit.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8cqJyc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "All-Day Comfort",
+            "heading_tag": "h4",
+            "content": "<p>Made with soft, flexible TPU uppers and a drop-in Croslite™ footbed that cushions your every step.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7LxQ4d": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Trendy Square-Toe Shape",
+            "heading_tag": "h4",
+            "content": "<p>A fashionable twist on a classic, the square-toe adds a contemporary edge to your warm-weather style.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GnJ7yP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Lightweight & Versatile",
+            "heading_tag": "h4",
+            "content": "<p>Easy to slip on and off, this sandal transitions seamlessly from daytime outings to evening plans.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_wKbnUG",
+        "item_8cqJyc",
+        "item_7LxQ4d",
+        "item_GnJ7yP"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Discover what makes the Amelza Women's Miami Toe Loop Sandal a must-have this season — a perfect blend of style, comfort, and everyday versatility.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_eUk6q9": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1748973452c61f9c4c": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "faq_bAPnDM": {
+      "type": "faq",
+      "blocks": {
+        "item_xWwUhp": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_NjyM9C": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_JRTKKF": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xWwUhp",
+        "item_NjyM9C",
+        "item_JRTKKF"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "175078959273eeb493": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_aMkJCF": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_aMkJCF"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "1750791310c1d9f825": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_ugc_media_grid_aJBiNQ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/ugc_media_grid/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_ugc_media_grid_aJBiNQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "1750791317ca966164": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_verified_badge_WnPYKF": {
+          "type": "shopify://apps/judge-me-reviews/blocks/verified_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_verified_badge_WnPYKF"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "accordion_content_wkVpfD",
+    "rich_text_NxLPxK",
+    "text_with_icons_mAdbkD",
+    "rich_text_yngY3y",
+    "video_DgWLNf",
+    "custom_liquid_kakNBY",
+    "custom_html_YP739d",
+    "video_Wxf6B4",
+    "rich_text_tTdjy6",
+    "text_with_icons_Wq9UzH",
+    "impact_text_PP3dGq",
+    "custom_liquid_DG9xnw",
+    "multi_column_qHtC47",
+    "custom_liquid_eUk6q9",
+    "1748973452c61f9c4c",
+    "faq_bAPnDM",
+    "175078959273eeb493",
+    "1750791310c1d9f825",
+    "1750791317ca966164"
+  ]
+}
