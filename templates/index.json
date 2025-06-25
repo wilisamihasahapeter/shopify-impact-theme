@@ -42,7 +42,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/0f7bf570bc4eba97b9252635ca165727.jpg",
+        "image": "shopify://shop_images/d4b9fc8d8528f5ae9b1b2f2c896775e7.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -384,7 +384,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/89b5806183791f2ccac7d3292fae5294.jpg",
+            "image": "shopify://shop_images/8810843cebb508d2410c5c41a58ac82b.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
@@ -406,7 +406,7 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/76f14b492c975a01db2d8cea95150c2e.jpg",
+            "image": "shopify://shop_images/9dabae5e03f2add8016a4541fe698af5.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
@@ -428,7 +428,7 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/28deadce4578d95ce4947689763f1a79.jpg",
+            "image": "shopify://shop_images/378cca6e6791590681c14c1654f2d8a4.jpg",
             "title": "",
             "heading_tag": "h6",
             "link_url": "",
@@ -450,7 +450,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/506cad1a5c2b39f31fdb40fbf5b7f193.jpg",
+            "image": "shopify://shop_images/6b5c150c3932614ec3ca97d176898f42.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -648,11 +648,11 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ad7751979828a32f0eeb255142f85e63.jpg",
+            "image": "shopify://shop_images/dac08b50ec552e306b1cc8374dd294b8.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Fit & Coverage",
-            "content": "<p>Slim fit, hip-length design that offers moderate everyday coverage.</p>",
+            "title": "Minimalist Style with a Modern Twist",
+            "content": "<p>The Miami Sandal features sleek, strappy uppers and a trendy square-toe design that adds a fashionable edge to any summer outfit.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -660,11 +660,11 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/91fbe21096c9733f3d7eb1af297cf4be.jpg",
+            "image": "shopify://shop_images/a241b0c77cadb1e79b5fb8970cd470c0.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Smart Details",
-            "content": "<p>Elastic zipper pull doubles as an emergency hair tie.</p>",
+            "title": "All-Day Comfort, Right Out of the Box",
+            "content": "<p>Made with soft, flexible TPU and a cushioned Croslite™ footbed, this sandal feels broken-in from day one — perfect for everyday wear.<br/></p>",
             "button_url": "",
             "button_text": ""
           }
