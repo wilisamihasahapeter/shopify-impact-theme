@@ -41,13 +41,21 @@
             "text": "SHIPS TODAY",
             "url": ""
           }
+        },
+        "message_6XfnN4": {
+          "type": "message",
+          "settings": {
+            "text": "BUY 1 GET 1",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_EFFbkB",
         "message_UzNHRc",
-        "message_xHaQrU"
+        "message_xHaQrU",
+        "message_6XfnN4"
       ],
       "settings": {
         "enable_sticky": false,
