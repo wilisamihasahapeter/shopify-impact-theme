@@ -39,16 +39,16 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_zC4Wh3": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .benefit {\n    font-size: 14px;\n    line-height: 1.2;\n    display: flex;\n    align-items: center;\n    margin-bottom: 8px;\n  }\n  .icon {\n    margin-right: 8px;\n    width: 20px;\n    height: 20px;\n  }\n</style>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Clean, modern silhouette that pairs with everything from streetwear to swimwear.\n</p>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Sleek design that pairs with anything, anywhere.\n</p>\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n Premium look and feel without the premium price tag.\n\n</p>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
           }
         },
         "liquid_dJk7tx": {
@@ -178,8 +178,8 @@
         "title",
         "text_F6neFR",
         "badges",
-        "price",
         "liquid_zC4Wh3",
+        "price",
         "liquid_dJk7tx",
         "rating",
         "payment_terms",
