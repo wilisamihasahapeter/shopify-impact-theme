@@ -67,7 +67,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "",
+        "background": "#dfdfdf",
         "background_gradient": "",
         "text_color": ""
       }

@@ -947,38 +947,54 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_wtVnyd": {
+          "type": "item",
+          "settings": {
+            "title": "Are your products authentic?",
+            "content": "<p>Yes, all items are authentic and sourced from overstock or clearance inventory — same original quality, just at a better price.<br/></p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "How long does shipping take?",
+            "content": "<p>Orders typically ship within 2–5 business days and arrive in 7–15 business days depending on your location.<br/></p>"
+          }
+        },
+        "item_A3jy3H": {
+          "type": "item",
+          "settings": {
+            "title": "Will I get tracking info?",
+            "content": "<p>Absolutely. You’ll receive a tracking link via email as soon as your order is shipped.<br/><br/></p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "What if my order doesn't fit?",
+            "content": "<p>Reach out to our support team — we’ll do our best to help with sizing issues, exchanges, or refunds depending on the situation.<br/><br/></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Can I cancel or change my order?",
+            "content": "<p>Orders can be changed or canceled within 24 hours of purchase. After that, they may already be in processing.<br/></p>"
           }
         }
       },
       "block_order": [
+        "item_wtVnyd",
         "166442457738b23caf-0",
+        "item_A3jy3H",
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Any question?",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
