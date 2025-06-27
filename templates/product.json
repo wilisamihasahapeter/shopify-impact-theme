@@ -742,9 +742,7 @@
         "heading_iJGhbR",
         "richtext_ybkEXm"
       ],
-      "custom_css": [
-        "h3 {font-weight: 900; /* Change the number to your desired weight (100 - 900) */}"
-      ],
+      "custom_css": [],
       "name": "Rich text",
       "settings": {
         "full_width": true,
