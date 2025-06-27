@@ -17,12 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping",
+            "text": "HURRY! 70% OFF RETAIL FOR OVERSTOCK CLEARANCE! SHOP TODAY AND SAVE BIG, ONLY UNTIL MIDNIGHT!",
             "url": ""
           }
         },
         "message_EFFbkB": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Ships Today",
             "url": ""
@@ -30,6 +31,7 @@
         },
         "message_UzNHRc": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Limited Offer",
             "url": ""
@@ -37,6 +39,7 @@
         },
         "message_xHaQrU": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Fast Delivery",
             "url": ""
@@ -54,7 +57,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#ba158c",
+        "background": "#df2589",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
