@@ -748,7 +748,7 @@
         "content_width": "small",
         "text_position": "center",
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(90deg,rgba(228, 76, 176, 1) 0%, rgba(217, 126, 183, 1) 50%, rgba(227, 166, 206, 1) 100%)",
         "text_color": ""
       }
     },
