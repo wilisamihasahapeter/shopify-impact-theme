@@ -9718,7 +9718,7 @@ split-lines {
 }
 
 .bold {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .text-xxs {
@@ -9758,21 +9758,25 @@ split-lines {
 .h0 {
   font-size: var(--text-h0);
   line-height: 1;
+  font-weight: bold;
 }
 
 .h1, .prose h1:not(.h0, .h1, .h2, .h3, .h4, .h5, .h6) {
   font-size: var(--text-h1);
   line-height: 1.1;
+  font-weight: bold;
 }
 
 .h2, .prose h2:not(.h0, .h1, .h2, .h3, .h4, .h5, .h6) {
   font-size: var(--text-h2);
   line-height: 1.1;
+  font-weight: bold;
 }
 
 .h3, .prose h3:not(.h0, .h1, .h2, .h3, .h4, .h5, .h6) {
   font-size: var(--text-h3);
   line-height: 1.2;
+  font-weight: bold;
 }
 
 .h4, .prose h4:not(.h0, .h1, .h2, .h3, .h4, .h5, .h6) {
@@ -9784,11 +9788,13 @@ split-lines {
 .h5, .prose h5:not(.h0, .h1, .h2, .h3, .h4, .h5, .h6) {
   font-size: var(--text-h5);
   line-height: 1.4;
+  font-weight: bold;
 }
 
 .h6, .prose h6:not(.h0, .h1, .h2, .h3, .h4, .h5, .h6) {
   font-size: var(--text-h6);
   line-height: 1.4;
+  font-weight: bold;
 }
 
 @media screen and (min-width: 700px) {
