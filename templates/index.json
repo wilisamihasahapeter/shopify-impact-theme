@@ -33,8 +33,8 @@
             "size": "lg",
             "text": "Shop Now",
             "url": "",
-            "background": "",
-            "text_color": ""
+            "background": "#000000",
+            "text_color": "#ffffff"
           }
         },
         "1664424230c4756b0e-2": {
