@@ -805,7 +805,6 @@
     },
     "custom_html_eEaQ4X": {
       "type": "custom-html",
-      "disabled": true,
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
@@ -828,6 +827,7 @@
       "block_order": [
         "judge_me_reviews_review_widget_aMkJCF"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
