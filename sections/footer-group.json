@@ -11,6 +11,67 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "text_with_icons_UKEYcb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_KxUCMU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Worldwide shipping",
+            "content": "<p>We offer fast world-wide shipping on all orders & an express shipping option.</p>"
+          }
+        },
+        "item_9H8zXa": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Need help?",
+            "content": "<p>Our customer service team is here to help you, info@shopamelza.com</p><p>Monday-Friday 9AM to 5PM</p>"
+          }
+        },
+        "item_PFyNGQ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-money",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Pay securely via Apple Pay, Google Pay, Creditcard, and many others.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_KxUCMU",
+        "item_9H8zXa",
+        "item_PFyNGQ"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -73,6 +134,7 @@
         "discount",
         "payment"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -93,7 +155,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Sign up to never miss exclusive offers and deals",
             "content": ""
           }
         },
@@ -129,6 +191,7 @@
     }
   },
   "order": [
+    "text_with_icons_UKEYcb",
     "text-with-icons",
     "footer"
   ]
