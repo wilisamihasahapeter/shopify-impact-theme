@@ -18,6 +18,17 @@
             "text": "Limited-Time Offer on Summer Favorites"
           }
         },
+        "button_FxmKQP": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop Now",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
@@ -34,6 +45,7 @@
       },
       "block_order": [
         "1664424230c4756b0e-0",
+        "button_FxmKQP",
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
