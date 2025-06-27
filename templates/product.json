@@ -725,7 +725,7 @@
           "type": "heading",
           "settings": {
             "text": "Satisfied or it's free",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "#ffffff",
             "gradient": ""
           }
@@ -741,6 +741,9 @@
         "subheading_jxmjar",
         "heading_iJGhbR",
         "richtext_ybkEXm"
+      ],
+      "custom_css": [
+        "h3 {font-weight: 900; /* Change the number to your desired weight (100 - 900) */}"
       ],
       "name": "Rich text",
       "settings": {
