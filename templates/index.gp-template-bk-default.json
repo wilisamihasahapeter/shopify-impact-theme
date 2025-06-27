@@ -1,0 +1,1039 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "image-with-text-overlay",
+    "before-after-image",
+    "featured_collection_8zMHkn",
+    "video_XpNbz3",
+    "slideshow",
+    "image-link-blocks",
+    "scrolling-text",
+    "scrolling_text_GftD49",
+    "collection-list",
+    "featured-collection",
+    "media-grid",
+    "impact-text",
+    "press",
+    "hot-spots",
+    "multiple-images-with-text",
+    "featured-product",
+    "feature-chart",
+    "faq"
+  ],
+  "sections": {
+    "before-after-image": {
+      "disabled": true,
+      "settings": {
+        "after_image": "shopify://shop_images/after.jpg",
+        "after_text": "After",
+        "after_text_color": "#ffffff",
+        "background": "",
+        "background_gradient": "",
+        "before_after_text_position": "bottom",
+        "before_image": "shopify://shop_images/befor.jpg",
+        "before_text": "Before",
+        "before_text_color": "#ffffff",
+        "content": "<p>Showcase the power of our glow kit with real results. Swipe to compare <strong>before and after</strong>—and discover the radiant difference.</p>",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000",
+        "drag_initial_position": 50,
+        "expand_image": false,
+        "full_width": true,
+        "subheading": "",
+        "text_color": "",
+        "text_position": "center",
+        "title": "Before/after"
+      },
+      "type": "before-after-image"
+    },
+    "collection-list": {
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "blocks": {
+        "collection-1": {
+          "settings": {
+            "collection": "",
+            "heading_tag": "h2",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "text_position": "place-self-center text-center",
+            "title": "",
+            "url": ""
+          },
+          "type": "collection"
+        },
+        "collection-2": {
+          "settings": {
+            "collection": "",
+            "heading_tag": "h2",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "text_position": "place-self-center text-center",
+            "title": "",
+            "url": ""
+          },
+          "type": "collection"
+        },
+        "collection-3": {
+          "settings": {
+            "collection": "",
+            "heading_tag": "h2",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "text_position": "place-self-center text-center",
+            "title": "",
+            "url": ""
+          },
+          "type": "collection"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "collections_per_row": 3,
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "View all",
+        "link_url": "",
+        "show_progress_bar": false,
+        "stack_collections": false,
+        "subheading": "",
+        "text_color": "",
+        "title": "Collection list"
+      },
+      "type": "collection-list"
+    },
+    "faq": {
+      "block_order": [
+        "item_wtVnyd",
+        "166442457738b23caf-0",
+        "item_A3jy3H",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "blocks": {
+        "166442457738b23caf-0": {
+          "settings": {
+            "content": "<p>Orders typically ship within 2–5 business days and arrive in 7–15 business days depending on your location.<br/></p>",
+            "title": "How long does shipping take?"
+          },
+          "type": "item"
+        },
+        "166442457738b23caf-1": {
+          "settings": {
+            "content": "<p>Reach out to our support team — we’ll do our best to help with sizing issues, exchanges, or refunds depending on the situation.<br/><br/></p>",
+            "title": "What if my order doesn't fit?"
+          },
+          "type": "item"
+        },
+        "166442457738b23caf-2": {
+          "settings": {
+            "content": "<p>Orders can be changed or canceled within 24 hours of purchase. After that, they may already be in processing.<br/></p>",
+            "title": "Can I cancel or change my order?"
+          },
+          "type": "item"
+        },
+        "item_A3jy3H": {
+          "settings": {
+            "content": "<p>Absolutely. You’ll receive a tracking link via email as soon as your order is shipped.<br/><br/></p>",
+            "title": "Will I get tracking info?"
+          },
+          "type": "item"
+        },
+        "item_wtVnyd": {
+          "settings": {
+            "content": "<p>Yes, all items are authentic and sourced from overstock or clearance inventory — same original quality, just at a better price.<br/></p>",
+            "title": "Are your products authentic?"
+          },
+          "type": "item"
+        }
+      },
+      "settings": {
+        "accordion_background": "",
+        "accordion_text_color": "",
+        "answer_time": "Average answer time: 24h",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text": "",
+        "button_text_color": "",
+        "button_url": "",
+        "content": "",
+        "full_width": false,
+        "heading_color": "",
+        "heading_gradient": "",
+        "subheading": "",
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "team_avatar_width": 160,
+        "text_color": "",
+        "text_position": "start",
+        "title": "Any question?"
+      },
+      "type": "faq"
+    },
+    "feature-chart": {
+      "block_order": [
+        "16644246508f6fa13a-0",
+        "16644246508f6fa13a-1",
+        "16644246508f6fa13a-2"
+      ],
+      "blocks": {
+        "16644246508f6fa13a-0": {
+          "settings": {
+            "heading_1": "Heading 1",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_2": "Heading 2",
+            "heading_20": "",
+            "heading_3": "Heading 3",
+            "heading_4": "Heading 4",
+            "heading_5": "",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": ""
+          },
+          "type": "headings"
+        },
+        "16644246508f6fa13a-1": {
+          "settings": {
+            "product": "",
+            "value_1": "<p>Yes</p>",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_2": "<p>Yes</p>",
+            "value_20": "",
+            "value_3": "<p>No</p>",
+            "value_4": "<p>No</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          },
+          "type": "values"
+        },
+        "16644246508f6fa13a-2": {
+          "settings": {
+            "product": "",
+            "value_1": "<p>No</p>",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_2": "<p>Yes</p>",
+            "value_20": "",
+            "value_3": "<p>Yes</p>",
+            "value_4": "<p>No</p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          },
+          "type": "values"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text": "",
+        "button_text_color": "",
+        "button_url": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": "",
+        "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "max_rows": 5,
+        "show_product_swatch": true,
+        "subheading": "Compare",
+        "text_color": "",
+        "text_position": "start",
+        "title": "Product specification",
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "view_product": "View",
+        "viewing_product": ""
+      },
+      "type": "feature-chart"
+    },
+    "featured-collection": {
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "collection": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "View all",
+        "link_url": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "products": [],
+        "products_count": 6,
+        "products_per_row_desktop": 4,
+        "products_per_row_mobile": "2",
+        "show_progress_bar": false,
+        "stack_products": false,
+        "subheading": "",
+        "text_color": "",
+        "title": "Featured collection"
+      },
+      "type": "featured-collection"
+    },
+    "featured-product": {
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "blocks": {
+        "badges": {
+          "settings": {},
+          "type": "badges"
+        },
+        "buy-buttons": {
+          "settings": {
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": "",
+            "show_gift_card_recipient": true,
+            "show_payment_button": true
+          },
+          "type": "buy_buttons"
+        },
+        "description": {
+          "settings": {
+            "collapse_content": false
+          },
+          "type": "description"
+        },
+        "price": {
+          "settings": {
+            "show_taxes_notice": false
+          },
+          "type": "price"
+        },
+        "quantity-selector": {
+          "settings": {},
+          "type": "quantity_selector"
+        },
+        "rating": {
+          "settings": {
+            "show_empty": false
+          },
+          "type": "rating"
+        },
+        "separator": {
+          "settings": {},
+          "type": "separator"
+        },
+        "title": {
+          "settings": {
+            "heading_tag": "h2"
+          },
+          "type": "title"
+        },
+        "variant-picker": {
+          "settings": {
+            "color_mode": "color",
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "size_chart_page": "",
+            "stack_blocks": true
+          },
+          "type": "variant_picker"
+        },
+        "vendor": {
+          "settings": {},
+          "type": "vendor"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "#ffffff",
+        "background_gradient": "",
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_width": 55,
+        "enable_image_zoom": true,
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "full_width": false,
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": "",
+        "max_image_zoom_level": 3,
+        "mobile_carousel_control": "floating_dots",
+        "mobile_media_size": "expanded",
+        "product": "",
+        "text_color": ""
+      },
+      "type": "featured-product"
+    },
+    "featured_collection_8zMHkn": {
+      "name": "Featured collection",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "collection": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "View all",
+        "link_url": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "products": [
+          "miami-sandal",
+          "kadee-ii-flip"
+        ],
+        "products_count": 2,
+        "products_per_row_desktop": 2,
+        "products_per_row_mobile": "2",
+        "show_progress_bar": false,
+        "stack_products": true,
+        "subheading": "",
+        "text_color": "",
+        "title": "Featured Sandals"
+      },
+      "type": "featured-collection"
+    },
+    "hot-spots": {
+      "block_order": [
+        "1664424434f5b7d0e0-0",
+        "1664424434f5b7d0e0-1",
+        "1664424434f5b7d0e0-2"
+      ],
+      "blocks": {
+        "1664424434f5b7d0e0-0": {
+          "settings": {
+            "content": "<p>Share useful information about your product features.</p>",
+            "horizontal_position": 24,
+            "horizontal_position_mobile": 24,
+            "icon_width": 32,
+            "title": "Feature name",
+            "vertical_position": 70,
+            "vertical_position_mobile": 70
+          },
+          "type": "item"
+        },
+        "1664424434f5b7d0e0-1": {
+          "settings": {
+            "content": "<p>Share useful information about your product features.</p>",
+            "horizontal_position": 62,
+            "horizontal_position_mobile": 62,
+            "icon_width": 32,
+            "title": "Feature name",
+            "vertical_position": 14,
+            "vertical_position_mobile": 14
+          },
+          "type": "item"
+        },
+        "1664424434f5b7d0e0-2": {
+          "settings": {
+            "content": "<p>Share useful information about your product features.</p>",
+            "horizontal_position": 83,
+            "horizontal_position_mobile": 83,
+            "icon_width": 32,
+            "title": "Feature name",
+            "vertical_position": 75,
+            "vertical_position_mobile": 75
+          },
+          "type": "item"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "button_text": "",
+        "button_url": "",
+        "content": "",
+        "desktop_text_position": "place-self-start text-start",
+        "full_width": true,
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_blur_radius": 3,
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "title": ""
+      },
+      "type": "hot-spots"
+    },
+    "image-link-blocks": {
+      "block_order": [
+        "1664424046b00c932c-0",
+        "1664424046b00c932c-1",
+        "1664424046b00c932c-2",
+        "1664424046b00c932c-3",
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+      ],
+      "blocks": {
+        "1664424046b00c932c-0": {
+          "settings": {
+            "background": "",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "1664424046b00c932c-1": {
+          "settings": {
+            "background": "",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "1664424046b00c932c-2": {
+          "settings": {
+            "background": "",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "1664424046b00c932c-3": {
+          "settings": {
+            "background": "",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
+          "settings": {
+            "background": "",
+            "link_text": "",
+            "link_url": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "block_size": "medium",
+        "content": "",
+        "full_width": false,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "",
+        "link_url": "",
+        "subheading": "",
+        "text_color": "",
+        "title": ""
+      },
+      "type": "image-link-blocks"
+    },
+    "image-with-text-overlay": {
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "button_FxmKQP",
+        "1664424230c4756b0e-2"
+      ],
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "disabled": true,
+          "settings": {
+            "text": "Limited-Time Offer on Summer Favorites"
+          },
+          "type": "subheading"
+        },
+        "1664424230c4756b0e-1": {
+          "settings": {
+            "heading_tag": "h1",
+            "text": "CLEARANCE FROM OVERSTOCK"
+          },
+          "type": "heading"
+        },
+        "1664424230c4756b0e-2": {
+          "disabled": true,
+          "settings": {
+            "content": "<p>We're making room for new arrivals — and that means special pricing on our most-loved styles. Get the chic and comfy Miami Sandal for just $19, and enjoy a bonus pair of Kadee II Flip-Flops, absolutely free. While supplies last!<br/></p>"
+          },
+          "type": "richtext"
+        },
+        "button_FxmKQP": {
+          "settings": {
+            "background": "#000000",
+            "size": "lg",
+            "style": "fill",
+            "text": "Shop Now",
+            "text_color": "#ffffff",
+            "url": ""
+          },
+          "type": "button"
+        }
+      },
+      "settings": {
+        "allow_transparent_header": false,
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "enable_parallax": false,
+        "full_width": true,
+        "image": "shopify://shop_images/d4b9fc8d8528f5ae9b1b2f2c896775e7.jpg",
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "text_color": "#ffffff"
+      },
+      "type": "image-with-text-overlay"
+    },
+    "impact-text": {
+      "block_order": [
+        "1664424181b38582d5-0"
+      ],
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "settings": {
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2,
+            "button_text": "",
+            "button_url": "",
+            "content": "",
+            "subheading": "Satisfaction Guaranteed",
+            "title": "100%"
+          },
+          "type": "item"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "full_width": true,
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_text_color": "",
+        "impact_text_size_ratio": 1,
+        "impact_text_style": "fill",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "text_color": "",
+        "text_divider": "none"
+      },
+      "type": "impact-text"
+    },
+    "media-grid": {
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "blocks": {
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "settings": {
+            "background": "#000000",
+            "background_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/6b5c150c3932614ec3ca97d176898f42.jpg",
+            "link_text": "",
+            "link_url": "",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "title": ""
+          },
+          "type": "image"
+        },
+        "item-1": {
+          "settings": {
+            "background": "#000000",
+            "background_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h6",
+            "image": "shopify://shop_images/8810843cebb508d2410c5c41a58ac82b.jpg",
+            "link_text": "",
+            "link_url": "",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "title": ""
+          },
+          "type": "image"
+        },
+        "item-2": {
+          "settings": {
+            "background": "#000000",
+            "background_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h6",
+            "image": "shopify://shop_images/9dabae5e03f2add8016a4541fe698af5.jpg",
+            "link_text": "",
+            "link_url": "",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "title": ""
+          },
+          "type": "image"
+        },
+        "item-3": {
+          "settings": {
+            "background": "#000000",
+            "background_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h6",
+            "image": "shopify://shop_images/378cca6e6791590681c14c1654f2d8a4.jpg",
+            "link_text": "",
+            "link_url": "",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "title": ""
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "desktop_row_height": 290,
+        "full_width": true,
+        "mobile_row_height": 150,
+        "reduce_width": false
+      },
+      "type": "media-grid"
+    },
+    "multiple-images-with-text": {
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
+      ],
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "settings": {
+            "button_text": "",
+            "button_url": "",
+            "content": "<p>The Miami Sandal features sleek, strappy uppers and a trendy square-toe design that adds a fashionable edge to any summer outfit.</p>",
+            "image": "shopify://shop_images/dac08b50ec552e306b1cc8374dd294b8.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Minimalist Style with a Modern Twist"
+          },
+          "type": "item"
+        },
+        "1664424486a2b084ab-1": {
+          "settings": {
+            "button_text": "",
+            "button_url": "",
+            "content": "<p>Made with soft, flexible TPU and a cushioned Croslite™ footbed, this sandal feels broken-in from day one — perfect for everyday wear.<br/></p>",
+            "image": "shopify://shop_images/a241b0c77cadb1e79b5fb8970cd470c0.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "All-Day Comfort, Right Out of the Box"
+          },
+          "type": "item"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "collage_images_alignment": "middle",
+        "full_width": true,
+        "images_layout": "scattered",
+        "text_color": ""
+      },
+      "type": "multiple-images-with-text"
+    },
+    "press": {
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1",
+        "quote_7pBpPK"
+      ],
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "settings": {
+            "author": "Kandi",
+            "content": "Love these! The style, the comfort, the color its all great. The only thing, my feet are on the narrower side, so it did not give me the fit that i wanted. But overall i would recommend this purchase. Perfect if you have normal width feet.",
+            "logo": "shopify://shop_images/images_1.jpg",
+            "logo_width": 50,
+            "rating": 5,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "16644243327ba53d2a-1": {
+          "settings": {
+            "author": "Denise",
+            "content": "I love these slippers. Very comfy and versatile. Can be dressed up or down. Wish the colour range was different as I would have bought more of these.",
+            "logo": "shopify://shop_images/images_2.jpg",
+            "logo_width": 50,
+            "rating": 5,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_7pBpPK": {
+          "settings": {
+            "author": "Seneca",
+            "content": "For some reason this pink pair ran bigger than the black that I purchased even though they were both the same size. Great color and styles tho.",
+            "logo": "shopify://shop_images/R_1.jpg",
+            "logo_width": 50,
+            "rating": 5,
+            "show_rating": true
+          },
+          "type": "quote"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content_size": "medium",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": "",
+        "text_color": ""
+      },
+      "type": "press"
+    },
+    "scrolling-text": {
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "full_width": true,
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "text": "15,000 + Happy Customers",
+        "text_color": "",
+        "text_gradient": "",
+        "text_size": "xsmall",
+        "text_style": "fill"
+      },
+      "type": "scrolling-text"
+    },
+    "scrolling_text_GftD49": {
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "full_width": true,
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "text": "1,000+ Happy Customers",
+        "text_color": "",
+        "text_gradient": "",
+        "text_size": "xsmall",
+        "text_style": "fill"
+      },
+      "type": "scrolling-text"
+    },
+    "slideshow": {
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "blocks": {
+        "slide-1": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "",
+            "button_text": "",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h0",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "Tell your story",
+            "text_color": "#ffffff",
+            "title": "Slide title"
+          },
+          "type": "image"
+        },
+        "slide-2": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "",
+            "button_text": "",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h0",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "Tell your story",
+            "text_color": "#ffffff",
+            "title": "Slide title"
+          },
+          "type": "image"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)",
+        "controls_type": "numbers",
+        "cycle_speed": 6,
+        "full_width": true,
+        "image_size": "auto",
+        "transition_type": "fade_with_text"
+      },
+      "type": "slideshow"
+    },
+    "video_XpNbz3": {
+      "block_order": [
+        "play_b698y9",
+        "heading_8jgLzC"
+      ],
+      "blocks": {
+        "heading_8jgLzC": {
+          "settings": {
+            "heading_tag": "h1",
+            "text": ""
+          },
+          "type": "heading"
+        },
+        "play_b698y9": {
+          "settings": {},
+          "type": "play"
+        }
+      },
+      "name": "Video",
+      "settings": {
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "full_width": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 11,
+        "text_color": "#ffffff",
+        "video": "shopify://files/videos/ssstik.io_@lifesrad_1750823630847.mp4",
+        "video_size": "auto"
+      },
+      "type": "video"
+    }
+  }
+}
