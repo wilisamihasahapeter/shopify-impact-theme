@@ -17,31 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "HURRY! 70% OFF RETAIL FOR OVERSTOCK CLEARANCE! SHOP TODAY AND SAVE BIG, ONLY UNTIL MIDNIGHT!",
+            "text": "50% OFF",
             "url": ""
           }
         },
         "message_EFFbkB": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "Ships Today",
+            "text": "OVERSTOCK CLEARANCE",
             "url": ""
           }
         },
         "message_UzNHRc": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "Limited Offer",
+            "text": "UNTIL MIDNIGHT",
             "url": ""
           }
         },
         "message_xHaQrU": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "Fast Delivery",
+            "text": "SHOP TODAY",
             "url": ""
           }
         }
