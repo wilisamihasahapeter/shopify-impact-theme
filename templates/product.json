@@ -726,7 +726,7 @@
           "settings": {
             "text": "Satisfied or it's free",
             "heading_tag": "h1",
-            "text_color": "",
+            "text_color": "#ffffff",
             "gradient": ""
           }
         },
@@ -748,8 +748,8 @@
         "content_width": "small",
         "text_position": "center",
         "background": "",
-        "background_gradient": "linear-gradient(90deg,rgba(228, 76, 176, 1) 0%, rgba(217, 126, 183, 1) 50%, rgba(227, 166, 206, 1) 100%)",
-        "text_color": ""
+        "background_gradient": "linear-gradient(90deg, rgba(228, 76, 176, 1), rgba(217, 126, 183, 1) 50%, rgba(227, 166, 206, 1) 100%)",
+        "text_color": "#ffffff"
       }
     },
     "175078959273eeb493": {
