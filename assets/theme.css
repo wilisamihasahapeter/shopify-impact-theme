@@ -9878,3 +9878,6 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+.product__title h1 {
+    font-weight: bold;
+}
