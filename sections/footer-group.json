@@ -166,18 +166,27 @@
             "show_menu_title": true
           }
         },
+        "links_Mc3fRn": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu-copy",
+            "show_menu_title": true
+          }
+        },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "About Amelza",
             "content": "<p><strong>Amelza</strong> is a contemporary women’s fashion brand, offering thoughtfully designed apparel that blends style, comfort, and quality for everyday wear.<br/><br/></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
         "newsletter",
         "links",
+        "links_Mc3fRn",
         "text"
       ],
       "settings": {
