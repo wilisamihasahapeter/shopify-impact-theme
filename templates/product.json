@@ -256,6 +256,47 @@
         "accordion_text_color": ""
       }
     },
+    "rich_text_y9HAHb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_hwqGwx": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_69GW8p": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_zWJ9B4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hwqGwx",
+        "heading_69GW8p",
+        "richtext_zWJ9B4"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_NxLPxK": {
       "type": "rich-text",
       "blocks": {
@@ -272,6 +313,7 @@
       "block_order": [
         "heading_CETHnc"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -350,6 +392,7 @@
         "item_cBJmHU",
         "item_mnkPWh"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -368,6 +411,7 @@
       "blocks": {
         "subheading_7wCnWX": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Summer Style Deal – Just $19!"
           }
@@ -375,7 +419,7 @@
         "heading_L43i9t": {
           "type": "heading",
           "settings": {
-            "text": "Buy the Chic Miami Sandal & Get 1 Sandal Free",
+            "text": "Your Trusted Partner: Quality at an Affordable Price",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -384,7 +428,7 @@
         "richtext_CQgEhA": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Step into the season with the Amelza Women's Miami Toe Loop Sandal — a chic, minimalist sandal designed to elevate any summer outfit. With sleek straps, a stylish toe loop, and a modern square-toe shape, this sandal is perfect for both casual and dressy occasions.</p><p><strong>All-Day Cushioning & Flexibility</strong><br/><br/>Crafted with soft, flexible TPU uppers and a drop-in Croslite™ footbed, the Miami Sandal offers lightweight support that feels broken-in from the very first wear. It's your go-to choice for sunny strolls, brunch dates, or beachside evenings.</p><p><strong>Limited-Time Bonus Offer</strong><br/><br/>As a special offer, every purchase includes a <strong>FREE pair of Amelza Women's Kadee II Flip-Flops</strong> — a comfortable, everyday flip that pairs effortlessly with your summer wardrobe. Two stylish essentials for just <strong>$19</strong>.</p><p><strong>Exclusive to Amelza</strong><br/><br/>Don’t miss this unbeatable value. Fashion-forward, comfortable, and wallet-friendly — only at <strong>Amelza</strong>, where summer style starts.</p>"
+            "content": "<p>The Crocs Sandals are crafted with precision and care, using quality materials for a sleek, versatile look. Designed for all-day comfort and effortless style, they’re your go-to pair for everyday ease and lasting wear.</p>"
           }
         }
       },
@@ -885,6 +929,7 @@
     "main",
     "related-products",
     "accordion_content_wkVpfD",
+    "rich_text_y9HAHb",
     "rich_text_NxLPxK",
     "text_with_icons_mAdbkD",
     "rich_text_yngY3y",
