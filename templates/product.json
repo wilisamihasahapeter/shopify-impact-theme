@@ -92,6 +92,15 @@
             "waitForElementDelay": 5
           }
         },
+        "kiwi_size_chart_recommender_kiwi_sizing_GD4rr6": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}",
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -134,6 +143,7 @@
         "variant_picker",
         "quantity_selector",
         "kiwi_size_chart_recommender_kiwi_sizing_jeFxKN",
+        "kiwi_size_chart_recommender_kiwi_sizing_GD4rr6",
         "buy_buttons",
         "liquid_wq37a9",
         "liquid_J3JBVq",
