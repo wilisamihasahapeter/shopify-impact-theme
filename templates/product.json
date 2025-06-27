@@ -701,7 +701,7 @@
       "settings": {
         "full_width": true,
         "text": "Easy Returns & Exchange | 30-day money back guarantee",
-        "text_size": "small",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
@@ -725,7 +725,7 @@
           "type": "heading",
           "settings": {
             "text": "Satisfied or it's free",
-            "heading_tag": "h3",
+            "heading_tag": "h1",
             "text_color": "#ffffff",
             "gradient": ""
           }
