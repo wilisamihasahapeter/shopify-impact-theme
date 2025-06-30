@@ -763,10 +763,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_6k3Exn": {
+        "item_DiGKGw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-06-30_at_11.08.18_AM_1.jpg",
+            "image": "shopify://shop_images/images_10.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -776,10 +776,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_DiGKGw": {
+        "item_6k3Exn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/images_10.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-06-30_at_11.08.18_AM_1.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -797,8 +797,8 @@
         "item_mh9DzP",
         "item_WYg97g",
         "item_WFkdra",
-        "item_6k3Exn",
-        "item_DiGKGw"
+        "item_DiGKGw",
+        "item_6k3Exn"
       ],
       "name": "Image link blocks",
       "settings": {
