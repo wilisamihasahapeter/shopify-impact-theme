@@ -845,7 +845,7 @@
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
+        "heading_text_color": "#d25c98",
         "heading_gradient": "",
         "text_color": "",
         "button_background": "",
