@@ -634,7 +634,7 @@
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "start",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -872,6 +872,75 @@
         "heading_gradient": ""
       }
     },
+    "faq_a4eptC": {
+      "type": "faq",
+      "blocks": {
+        "item_meWCdp": {
+          "type": "item",
+          "settings": {
+            "title": "What size is the Clover Bracelet, and will it fit my wrist?",
+            "content": "<p>The Clover Bracelet is designed to be adjustable to fit most wrist sizes comfortably. It comes with a clasp that allows you to adjust the length for a perfect fit. If you have a smaller or larger wrist, please contact our customer service team, and we’ll be happy to assist you with custom sizing.</p>"
+          }
+        },
+        "item_fxjEg4": {
+          "type": "item",
+          "settings": {
+            "title": "What makes the Clover Bracelet so special?",
+            "content": "<p>The Clover Bracelet features a unique design that combines timeless elegance with modern style. Crafted with precision and care, the bracelet is made with high-quality materials that ensure both durability and a luxurious finish, making it a perfect addition to any collection.</p>"
+          }
+        },
+        "item_TR8XD4": {
+          "type": "item",
+          "settings": {
+            "title": "Can I wear the Clover Bracelet while swimming or showering?",
+            "content": "<p>The Clover Bracelet is water-resistant and tarnish-resistant, but we recommend removing it before swimming or showering to preserve its finish and longevity.<br/><br/></p>"
+          }
+        },
+        "item_jqfy7i": {
+          "type": "item",
+          "settings": {
+            "title": "Is the Clover Bracelet hypoallergenic?",
+            "content": "<p>Yes, the Clover Bracelet is made with hypoallergenic materials to ensure comfort and safety for sensitive skin. It is free from harmful metals like nickel, making it suitable for most skin types.</p>"
+          }
+        },
+        "item_in9Kq4": {
+          "type": "item",
+          "settings": {
+            "title": "Is there a warranty or return policy for the Clover Bracelet?",
+            "content": "<p>Yes! We offer a <strong>30-day money-back guarantee</strong> on the Clover Bracelet. If you're not completely satisfied with your purchase, simply return it within 30 days for a full refund—no questions asked!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_meWCdp",
+        "item_fxjEg4",
+        "item_TR8XD4",
+        "item_jqfy7i",
+        "item_in9Kq4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "impact_text_PP3dGq": {
       "type": "impact-text",
       "blocks": {
@@ -1106,6 +1175,7 @@
     "video_Wxf6B4",
     "text_with_icons_Wq9UzH",
     "image_link_blocks_yF6VKn",
+    "faq_a4eptC",
     "impact_text_PP3dGq",
     "custom_liquid_DG9xnw",
     "rich_text_eXMXAd",
