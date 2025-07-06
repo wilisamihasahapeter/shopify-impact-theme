@@ -1245,7 +1245,7 @@
             "date_text": "",
             "review_head": "Beach-Proof Beauty",
             "review_text": "Wore them in the shower, pool, even at the beach — still flawless. No green marks, no fading. I’m honestly shocked at how good these are!",
-            "like_size": 0,
+            "like_size": 21,
             "dislike_size": 0,
             "feature_font_size": 16
           }
@@ -1271,6 +1271,18 @@
             "date_text": "",
             "review_head": "Everyday Luxury",
             "review_text": "Can’t believe how well they’re holding up. I even forgot to take them off before bed and showers — still perfect. So worth it.",
+            "like_size": 20,
+            "dislike_size": 0,
+            "feature_font_size": 16
+          }
+        },
+        "review_zfT7FR": {
+          "type": "review",
+          "settings": {
+            "name_text": "Johan D.",
+            "date_text": "July 2023",
+            "review_head": "Nice Product",
+            "review_text": "Nice Product. I'm happy with my purchase.",
             "like_size": 0,
             "dislike_size": 0,
             "feature_font_size": 16
@@ -1307,6 +1319,7 @@
         "review_ryWN4c",
         "review_eMqkKx",
         "review_3e8NAx",
+        "review_zfT7FR",
         "review_6T4e6L",
         "review_wU6N8L"
       ],
