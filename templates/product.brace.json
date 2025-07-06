@@ -1240,10 +1240,63 @@
         "review_ryWN4c": {
           "type": "review",
           "settings": {
-            "name_text": "Johan D.",
-            "date_text": "July 2023",
-            "review_head": "Nice Product",
-            "review_text": "Nice Product. I'm happy with my purchase.",
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.40_PM.jpg",
+            "name_text": "Nahlia Drew",
+            "date_text": "",
+            "review_head": "Beach-Proof Beauty",
+            "review_text": "Wore them in the shower, pool, even at the beach — still flawless. No green marks, no fading. I’m honestly shocked at how good these are!",
+            "like_size": 0,
+            "dislike_size": 0,
+            "feature_font_size": 16
+          }
+        },
+        "review_eMqkKx": {
+          "type": "review",
+          "settings": {
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.54_PM.jpg",
+            "name_text": "Ysabel Noor",
+            "date_text": "",
+            "review_head": "Looks Expensive, Isn’t!",
+            "review_text": "They look so expensive but didn’t hurt my wallet at all. I’ve worn them nonstop and they still shine like day one. Amelza nailed it.",
+            "like_size": 0,
+            "dislike_size": 0,
+            "feature_font_size": 16
+          }
+        },
+        "review_3e8NAx": {
+          "type": "review",
+          "settings": {
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.21.10_PM.jpg",
+            "name_text": "Virelle Skye",
+            "date_text": "",
+            "review_head": "Everyday Luxury",
+            "review_text": "Can’t believe how well they’re holding up. I even forgot to take them off before bed and showers — still perfect. So worth it.",
+            "like_size": 0,
+            "dislike_size": 0,
+            "feature_font_size": 16
+          }
+        },
+        "review_6T4e6L": {
+          "type": "review",
+          "settings": {
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.28_PM.jpg",
+            "name_text": "Elira Monroe",
+            "date_text": "",
+            "review_head": "Still Sparkling!",
+            "review_text": "I’ve showered, slept, and worked out with these on — zero fading. Still shining like I just unboxed them. So impressed!",
+            "like_size": 0,
+            "dislike_size": 0,
+            "feature_font_size": 16
+          }
+        },
+        "review_wU6N8L": {
+          "type": "review",
+          "settings": {
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.21.28_PM.jpg",
+            "name_text": "Solene Kai",
+            "date_text": "",
+            "review_head": "Seriously Obsessed",
+            "review_text": "I didn’t expect them to look this good. The gold tone is perfect and hasn’t dulled at all. Wearing them every day now.",
             "like_size": 0,
             "dislike_size": 0,
             "feature_font_size": 16
@@ -1251,7 +1304,11 @@
         }
       },
       "block_order": [
-        "review_ryWN4c"
+        "review_ryWN4c",
+        "review_eMqkKx",
+        "review_3e8NAx",
+        "review_6T4e6L",
+        "review_wU6N8L"
       ],
       "name": "Lumin Review",
       "settings": {
@@ -1260,7 +1317,7 @@
         "show_top": true,
         "show_footer": true,
         "rating": "4.9",
-        "rating_count": "16",
+        "rating_count": "21",
         "review_column_mobile": "1",
         "review_column_tab": "1",
         "review_column_desk": "1",
