@@ -133,6 +133,12 @@
             "payment_button_text_color": ""
           }
         },
+        "text_pRXLLy": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>18K Gold Plated</li><li>High-Quality, Carefully Cut Crystals</li><li>Safe for Sensitive Skin</li><li>Adjustable for the Perfect Fit</li><li>Tarnish-Resistant</li></ul><p><br/><strong>Beware of cheap replicas</strong> – Our authentic Clover Bracelet is only available through our official store.<br/></p>"
+          }
+        },
         "liquid_wq37a9": {
           "type": "liquid",
           "settings": {
@@ -141,26 +147,28 @@
         },
         "liquid_J3JBVq": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-info__liquid\">\n            <div id=\"checkout-message\"><strong class=\"changing-number\">30</strong> people are checking out right now</div>\n\n<script>\n// Function to generate a random number between min and max (inclusive)\nfunction getRandomNumber(min, max) {\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\n\n// Function to update the number\nfunction updateNumber() {\n    const numberElement = document.querySelector('.changing-number');\n    if (numberElement) {\n        numberElement.textContent = getRandomNumber(20, 60);\n    }\n}\n\n// Set an interval to update the number every 20 seconds (20000 milliseconds)\nsetInterval(updateNumber, 20000);\n\n// Initial call to display the number immediately\nupdateNumber();\n</script>\n\n<style>\n#checkout-message {\nfont-size: 13px;\ntext-align: center;\nbackground: #ff9cd1;\nborder-radius: 5px;\nwidth: max-content;\nmargin-left: auto;\nmargin-right: auto;\npadding: 2px 24px;\ncolor: #000000;\nline-height: 22px;\n}\n.changing-number{\nfont-size: 14px;\nfont-weight: 800;\n}\n</style>\n          </div>"
-          }
-        },
-        "collapsible_text_mMA4B4": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Shipping & Returns",
-            "content": "<p>Having second thoughts? Returns can be made within 30 days. <strong>Our returns process is free</strong> (and seamless).</p><p>We offer <strong>FREE Shipping </strong>on all the orders.</p><ul><li><em><strong>Fulfillment time</strong></em><em>: 24 - 48 hrs</em></li><li><em><strong>Shipping time</strong></em><em>: 7 - 15 days</em></li></ul>"
           }
         },
         "collapsible_text_aGY84U": {
           "type": "collapsible_text",
           "settings": {
             "title": "Our Guarantee",
-            "content": "<p>We care about our customers and ensure that every pair of sandals we offer is authentic and of the highest quality.</p><ul><li>Tracking number for every order</li><li>Safe & encrypted payments</li><li>24/7 assistance</li><li>No hidden fees!</li></ul>"
+            "content": "<p>We care about our customers and ensure that every Clover Bracelet we offer is authentic and of the highest quality.<br/></p><ul><li>Tracking number for every order</li><li>Safe & encrypted payments</li><li>24/7 assistance</li><li>No hidden fees!</li></ul>"
+          }
+        },
+        "collapsible_text_mMA4B4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "<p>Free Express Shipping.</p><p>Standard shipping 7-15 business days for delivery.</p><p>Support returns/exchanges within 30 days.</p>"
           }
         },
         "collapsible_text_Y8L9dQ": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Materials & Care",
             "content": "<p>Materials: Upper: 100% Thermoplastic Polyurethane (TPU). Footbed: 100% Croslite™ (EVA-based foam). Outsole: Croslite™ or TPU. No fabric or textile materials included.<br/><br/><strong>Care</strong></p><ul><li>Machine Wash Cold</li><li>Do Not Bleach</li><li>Tumble Dry Low</li><li>Do Not Iron</li><li>Do Not Dry Clean</li><li>Wash With Like Colors</li></ul>"
@@ -168,6 +176,7 @@
         },
         "collapsible_text_KfjdAK": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Is this the Real Deal?",
             "content": "<p>Yes – it’s the same iconic design. These come from surplus or liquidation inventory, so we can offer them at a fraction of the price.</p>"
@@ -175,6 +184,7 @@
         },
         "collapsible_text_g9NbPV": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Why is it $19 instead of $39?",
             "content": "<p>We buy excess stock that big brands need to move fast. It’s 100% authentic – just not full price anymore.</p>"
@@ -205,10 +215,11 @@
         "kiwi_size_chart_recommender_kiwi_sizing_jeFxKN",
         "kiwi_size_chart_recommender_kiwi_sizing_GD4rr6",
         "buy_buttons",
+        "text_pRXLLy",
         "liquid_wq37a9",
         "liquid_J3JBVq",
-        "collapsible_text_mMA4B4",
         "collapsible_text_aGY84U",
+        "collapsible_text_mMA4B4",
         "collapsible_text_Y8L9dQ",
         "collapsible_text_KfjdAK",
         "collapsible_text_g9NbPV",
@@ -474,6 +485,7 @@
     },
     "custom_html_jRzwkN": {
       "type": "custom-html",
+      "disabled": true,
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
@@ -490,18 +502,17 @@
       "blocks": {
         "subheading_7wCnWX": {
           "type": "subheading",
-          "disabled": true,
           "settings": {
-            "text": "Summer Style Deal – Just $19!"
+            "text": "More than 13,000 people have enhanced their style with the timeless elegance of our Clover Bracelet."
           }
         },
         "heading_L43i9t": {
           "type": "heading",
           "settings": {
-            "text": "Your Trusted Partner: Quality at an Affordable Price",
+            "text": "Timeless Elegance: The Unmatched Quality of Our Clover Bracelet",
             "heading_tag": "h3",
             "text_color": "",
-            "gradient": ""
+            "gradient": "linear-gradient(90deg, rgba(255, 211, 241, 1), rgba(255, 20, 138, 1) 100%)"
           }
         },
         "richtext_CQgEhA": {
