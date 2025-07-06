@@ -56,7 +56,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/d4b9fc8d8528f5ae9b1b2f2c896775e7.jpg",
+        "image": "shopify://shop_images/3aac5f88958ed497ed2dbf68a9e74c69.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -89,27 +89,73 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "rich_text_drgNRy": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_VGLc3W": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_ry8zPG": {
+          "type": "heading",
+          "settings": {
+            "text": "13,000+ satisfied people",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": "linear-gradient(54deg, rgba(255, 114, 187, 1), rgba(255, 31, 175, 1) 100%)"
+          }
+        },
+        "richtext_atQbwA": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our <strong>Clover Bracelet</strong> combines luxury and durability with high-quality gold plating, water and sweat resistance, making it perfect for everyday wear. We believe <strong>everyone deserves to feel special</strong>, which is why we offer this beautiful piece at an <strong>affordable price</strong>—<em>luxury should be within reach for all.</em></p>"
+          }
+        },
+        "button_MCzwF9": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Shop Now",
+            "url": "",
+            "background": "#ff31a8",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VGLc3W",
+        "heading_ry8zPG",
+        "richtext_atQbwA",
+        "button_MCzwF9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_collection_8zMHkn": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
-        "products": [
-          "miami-sandal",
-          "women-s-kadee-ii-flip",
-          "mellow-recovery-slide",
-          "crush-sandal",
-          "bayaband-flip",
-          "women-s-swiftwater™-sandal"
-        ],
+        "collection": "under-50",
+        "products": [],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 3,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 2,
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured Sandals",
+        "title": "This week's deal",
         "content": "",
         "link_url": "shopify://collections/under-50",
         "link_text": "View all",
@@ -141,6 +187,7 @@
         "play_b698y9",
         "heading_8jgLzC"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -526,6 +573,7 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -957,26 +1005,27 @@
         "item_wtVnyd": {
           "type": "item",
           "settings": {
-            "title": "Are your products authentic?",
-            "content": "<p>Yes, all items are authentic and sourced from overstock or clearance inventory — same original quality, just at a better price.<br/></p>"
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "How long does shipping take?",
-            "content": "<p>Orders typically ship within 2–5 business days and arrive in 7–15 business days depending on your location.<br/></p>"
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "item_A3jy3H": {
           "type": "item",
           "settings": {
-            "title": "Will I get tracking info?",
-            "content": "<p>Absolutely. You’ll receive a tracking link via email as soon as your order is shipped.<br/><br/></p>"
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<br/><br/></p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "What if my order doesn't fit?",
             "content": "<p>Reach out to our support team — we’ll do our best to help with sizing issues, exchanges, or refunds depending on the situation.<br/><br/></p>"
@@ -984,6 +1033,7 @@
         },
         "166442457738b23caf-2": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Can I cancel or change my order?",
             "content": "<p>Orders can be changed or canceled within 24 hours of purchase. After that, they may already be in processing.<br/></p>"
@@ -1018,11 +1068,108 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "impact_text_Y8aQEa": {
+      "type": "impact-text",
+      "blocks": {
+        "item_whxXfF": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Satisfaction Guarantee",
+            "content": "<p><br/><br/></p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_whxXfF"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#ff0382",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "testimonials_q3b3M9": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_eKqPBh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Solene Kai",
+            "title": "Favorite bracelet ever!",
+            "content": "<p><br/>I didn’t expect them to look this good. The gold tone is <em>perfect</em> and hasn’t dulled at all. Wearing them every day now.<br/><br/></p>"
+          }
+        },
+        "testimonial_aXhbar": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Kaela Soren",
+            "title": "Not Taking Them Off",
+            "content": "<p>I wear mine literally 24/7 — in the shower, gym, you name it. No tarnish, no green marks. Just shine. They’re THAT good.</p>"
+          }
+        },
+        "testimonial_UKcqVG": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Amryn Vale",
+            "title": "it's a yes",
+            "content": "<p>Honestly feels like I’m wearing designer jewelry. The finish, the weight, the way it catches light — can’t believe it’s this affordable.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_eKqPBh",
+        "testimonial_aXhbar",
+        "testimonial_UKcqVG"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "Satisfaction Guaranteesatisfied or it's free (30-day money back)",
+        "title": "what our customers say about us",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
     "image-with-text-overlay",
     "before-after-image",
+    "rich_text_drgNRy",
     "featured_collection_8zMHkn",
     "video_XpNbz3",
     "slideshow",
@@ -1038,6 +1185,8 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq"
+    "faq",
+    "impact_text_Y8aQEa",
+    "testimonials_q3b3M9"
   ]
 }
