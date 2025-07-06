@@ -518,7 +518,7 @@
         "richtext_CQgEhA": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The Crocs Sandals are crafted with precision and care, using quality materials for a sleek, versatile look. Designed for all-day comfort and effortless style, they’re your go-to pair for everyday ease and lasting wear.</p>"
+            "content": "<p><strong>Amelza™ </strong> is meticulously crafted with exceptional <em>precision </em>and <em>care</em>, using only the finest materials. Each piece is designed to deliver timeless elegance, lasting durability, and a refined finish, making it a treasured addition to your collection for years to come.<br/><br/></p>"
           }
         }
       },
@@ -531,7 +531,7 @@
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "start",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
