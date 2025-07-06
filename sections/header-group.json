@@ -17,12 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "50% OFF",
+            "text": "FREE shipping on all orders this week",
             "url": ""
           }
         },
         "message_EFFbkB": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "OVERSTOCK CLEARANCE",
             "url": ""
@@ -30,6 +31,7 @@
         },
         "message_UzNHRc": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "UNTIL MIDNIGHT",
             "url": ""
@@ -37,6 +39,7 @@
         },
         "message_xHaQrU": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "SHIPS TODAY",
             "url": ""
@@ -44,6 +47,7 @@
         },
         "message_6XfnN4": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "BUY 1 GET 1",
             "url": ""
@@ -60,7 +64,7 @@
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#df2589",
         "background_gradient": "",
