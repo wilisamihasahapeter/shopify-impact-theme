@@ -808,6 +808,7 @@
         },
         "item_WFkdra": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/images_12.jpg",
             "stretch_image": true,
@@ -821,6 +822,7 @@
         },
         "item_DiGKGw": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/s-l1600_1.webp",
             "stretch_image": true,
@@ -834,6 +836,7 @@
         },
         "item_6k3Exn": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-06-30_at_11.08.18_AM_1.jpg",
             "stretch_image": true,
