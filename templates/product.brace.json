@@ -45,6 +45,12 @@
             "liquid": "<style>\n  .benefit {\n    font-size: 14px;\n    line-height: 1.2;\n    display: flex;\n    align-items: center;\n    margin-bottom: 8px;\n  }\n  .icon {\n    margin-right: 8px;\n    width: 20px;\n    height: 20px;\n  }\n</style>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Clean, modern silhouette that pairs with everything from streetwear to swimwear.\n</p>\n\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n  Sleek design that pairs with anything, anywhere.\n</p>\n<p class=\"benefit\">\n  <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0857/5238/1766/files/1_18bf1d75-2043-4cc1-a8d9-18de7e5ccc02.svg?v=1729675305\" alt=\"Icon\">\n Premium look and feel without the premium price tag.\n\n</p>"
           }
         },
+        "liquid_Ep7fTE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n#customText, #countdown2 {\n  color: #121212; /* Colore nero */\n  margin: 0;\n  padding: 0;\n  text-align: center; /* Allineamento al centro */\n  font-size: inherit; /* Eredita la dimensione del font dal tema */\n  font-weight: inherit; /* Eredita lo spessore del font dal tema */\n  font-family: inherit; /* Eredita il font dal tema */\n}\n\n#countdownContainer {\n  background-color: #F0F5F4; /* Colore di sfondo */\n  border-radius: 100px;\n  padding: 10px; /* Aggiunta di padding per distanziare il testo dal bordo */\n  width: 100%; /* Larghezza completa della pagina */\n  box-sizing: border-box; /* Considera padding e margini nella larghezza */\n  margin: 0 auto 20px auto; /* Aggiunto margine inferiore di 20px */\n  max-width: 1200px; /* Limita la larghezza massima per evitare che si estenda troppo */\n  text-align: center; /* Centra tutto il contenuto all'interno */\n}\n\n/* Stile per il puntino verde lampeggiante */\n.blinking-dot {\n  height: 10px;\n  width: 10px;\n  background-color: green;\n  border-radius: 50%;\n  display: inline-block;\n  margin-right: 10px; /* Distanza tra il puntino e il testo */\n  animation: blink 2s infinite; /* Lampeggiamento più lento */\n}\n\n@keyframes blink {\n  0% { opacity: 1; }\n  50% { opacity: 0; }\n  100% { opacity: 1; }\n}\n</style>\n\n<div id=\"countdownContainer\">\n  <span class=\"blinking-dot\"></span> <!-- Puntino verde lampeggiante -->\n  <span id=\"customText\"> Buy 1 Get 1 FREE ends in </span>\n  <span id=\"countdown2\">5h 21m 22s </span>\n</div>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function () {\n  // Set the target time for 5 hours, 34 minutes, and 37 seconds from now\n  var targetDate = new Date().getTime() + (5 * 60 * 60 + 34 * 60 + 37) * 1000;\n\n  var countdownFunction = setInterval(function() {\n    var now = new Date().getTime();\n    var distance = targetDate - now;\n\n    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n    var seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n    document.getElementById(\"countdown2\").innerHTML = hours + \"h \" + minutes + \"m \" + seconds + \"s \";\n\n    if (distance < 0) {\n      clearInterval(countdownFunction);\n      document.getElementById(\"countdown2\").innerHTML = \"EXPIRED\";\n    }\n  }, 1000);\n});\n</script>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -179,6 +185,7 @@
         "text_F6neFR",
         "badges",
         "liquid_zC4Wh3",
+        "liquid_Ep7fTE",
         "price",
         "liquid_dJk7tx",
         "rating",
