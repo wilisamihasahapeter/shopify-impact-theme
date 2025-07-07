@@ -588,6 +588,7 @@
     },
     "scrolling_text_iAVWNN": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
