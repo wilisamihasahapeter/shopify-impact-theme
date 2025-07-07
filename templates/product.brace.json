@@ -586,23 +586,6 @@
         "text_gradient": ""
       }
     },
-    "scrolling_text_iAVWNN": {
-      "type": "scrolling-text",
-      "disabled": true,
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Easy Returns & Exchange | 3000+ 5 Star Reviews",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#fff3fa",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "trustpilot_KLe6eG": {
       "type": "TRUSTPILOT",
       "blocks": {
@@ -873,6 +856,22 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 28
+      }
+    },
+    "scrolling_text_iAVWNN": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "In stock! Best deal this year",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#fff3fa",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "text_with_icons_Wq9UzH": {
@@ -1499,10 +1498,10 @@
     "rich_text_yngY3y",
     "video_DgWLNf",
     "scrolling_text_cNq4D4",
-    "scrolling_text_iAVWNN",
     "trustpilot_KLe6eG",
     "rich_text_tTdjy6",
     "video_Wxf6B4",
+    "scrolling_text_iAVWNN",
     "text_with_icons_Wq9UzH",
     "image_link_blocks_yF6VKn",
     "faq_a4eptC",
