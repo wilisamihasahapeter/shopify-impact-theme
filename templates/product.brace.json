@@ -563,7 +563,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "md",
-        "video": "shopify://files/videos/ssstik.io_@itschambery_1751744575483.mp4",
+        "video": "shopify://files/videos/Ssstik.Io @Itschambery 1751744575483 (1).webm",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -576,6 +576,7 @@
       "settings": {
         "full_width": true,
         "text": "Easy Returns & Exchange | 3000+ 5 Star Reviews",
+        "bold_text": true,
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -851,7 +852,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "md",
-        "video": "shopify://files/videos/ssstik.io_@itschambery_1751725847448.mp4",
+        "video": "shopify://files/videos/Ssstik.Io @Itschambery 17517258474648 (1).webm",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -864,6 +865,7 @@
       "settings": {
         "full_width": true,
         "text": "In stock! Best deal this year",
+        "bold_text": true,
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -1243,7 +1245,7 @@
         "review_ryWN4c": {
           "type": "review",
           "settings": {
-            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.40_PM.jpg",
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.40_PM.webp",
             "name_text": "Nahlia Drew",
             "date_text": "",
             "review_head": "Beach-Proof Beauty",
@@ -1256,7 +1258,7 @@
         "review_eMqkKx": {
           "type": "review",
           "settings": {
-            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.54_PM.jpg",
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.54_PM.webp",
             "name_text": "Ysabel Noor",
             "date_text": "",
             "review_head": "Looks Expensive, Isn’t!",
@@ -1269,7 +1271,7 @@
         "review_3e8NAx": {
           "type": "review",
           "settings": {
-            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.21.10_PM.jpg",
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.21.10_PM.webp",
             "name_text": "Virelle Skye",
             "date_text": "",
             "review_head": "Everyday Luxury",
@@ -1282,6 +1284,7 @@
         "review_zfT7FR": {
           "type": "review",
           "settings": {
+            "img_block": "shopify://shop_images/Screenshot_2025-07-14_205927.webp",
             "name_text": "Johan D.",
             "date_text": "July 2023",
             "review_head": "Nice Product",
@@ -1294,7 +1297,7 @@
         "review_6T4e6L": {
           "type": "review",
           "settings": {
-            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.28_PM.jpg",
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.20.28_PM.webp",
             "name_text": "Elira Monroe",
             "date_text": "",
             "review_head": "Still Sparkling!",
@@ -1307,7 +1310,7 @@
         "review_wU6N8L": {
           "type": "review",
           "settings": {
-            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.21.28_PM.jpg",
+            "img_block": "shopify://shop_images/WhatsApp_Image_2025-07-06_at_2.21.28_PM.webp",
             "name_text": "Solene Kai",
             "date_text": "",
             "review_head": "Seriously Obsessed",
