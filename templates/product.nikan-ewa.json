@@ -438,7 +438,6 @@
           "disabled": true,
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images__3_-removebg-preview.png",
             "mobile_icon_width": 72,
             "icon_width": 100,
             "icon_background_type": "none",
@@ -453,7 +452,6 @@
           "disabled": true,
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/2711687-02-removebg-preview.png",
             "mobile_icon_width": 72,
             "icon_width": 100,
             "icon_background_type": "none",
@@ -577,6 +575,7 @@
       "settings": {
         "full_width": true,
         "text": "Easy Returns & Exchange | 3000+ 5 Star Reviews",
+        "bold_text": true,
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -667,6 +666,7 @@
         "slide_yKraWm",
         "slide_eeFVze"
       ],
+      "disabled": true,
       "name": "Le J Sauce - TrustPilot",
       "settings": {
         "heading": "12,000+ satisfied people",
@@ -830,6 +830,7 @@
         "heading_9RiyJe",
         "richtext_dbgcee"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -860,6 +861,7 @@
         "play_DBthTn",
         "heading_mhaQzN"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -1121,6 +1123,7 @@
         "item_jqfy7i",
         "item_in9Kq4"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -1163,6 +1166,7 @@
       "block_order": [
         "item_RNcrbG"
       ],
+      "disabled": true,
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -1182,6 +1186,7 @@
     },
     "custom_liquid_DG9xnw": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -1224,6 +1229,7 @@
         "heading_iJGhbR",
         "richtext_ybkEXm"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Rich text",
       "settings": {
