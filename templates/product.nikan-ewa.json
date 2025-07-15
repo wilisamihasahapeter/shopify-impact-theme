@@ -526,6 +526,7 @@
         "heading_L43i9t",
         "richtext_CQgEhA"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -556,6 +557,7 @@
         "play_XzTRKQ",
         "heading_xPcHVb"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -571,6 +573,7 @@
     },
     "scrolling_text_cNq4D4": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
@@ -1061,6 +1064,7 @@
         "item_DiGKGw",
         "item_6k3Exn"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
